@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Career Pathways</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/results.css') }}">
+</head>
+<body>
+    <div class="results-page">
+        <nav class="results-nav">
+            <div class="nav-content">
+                <h1>Career Compass</h1>
+                <div class="nav-actions">
+                    <button onclick="window.print()" class="nav-btn">
+                        <i class="fas fa-print"></i> Print Report
+                    </button>
+                    <button onclick="window.location.href='/assessment'" class="nav-btn primary">
+                        <i class="fas fa-redo"></i> New Assessment
+                    </button>
+                </div>
+            </div>
+        </nav>
+
+        <div class="results-hero">
+            <div class="hero-content">
+                <h2>Your Career Pathways</h2>
+                <p>Discover your potential career journeys based on your profile</p>
+            </div>
+        </div>
+
+        <main class="results-main">
+            <div id="recommendations"></div>
+        </main>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const recommendationsData = JSON.parse(sessionStorage.getItem('careerRecommendations') || '[]');
+            const recommendationsContainer = document.getElementById('recommendations');
+
+            if (!Array.isArray(recommendationsData) || recommendationsData.length === 0) {
+                recommendationsContainer.innerHTML = `
+                    <div class="no-results">
+                        <i class="fas fa-compass"></i>
+                        <h3>No Career Paths Found</h3>
+                        <p>Please complete the assessment to discover your career pathways.</p>
+                        <a href="/assessment" class="btn-primary">Take Assessment</a>
+                    </div>
+                `;
+                return;
+            }
+
+            // Sort recommendations by confidence (still used for ordering)
+            const sortedRecommendations = recommendationsData.sort((a, b) => b.confidence - a.confidence);
+
+            const careerPaths = sortedRecommendations.map((career, index) => `
+                <div class="career-path fade-in" style="animation-delay: ${index * 200}ms">
+                    <div class="career-path-header">
+                        <div class="path-icon">
+                            <i class="fas ${getCareerIcon(career.career)}"></i>
+                        </div>
+                        <h3>${career.career}</h3>
+                    </div>
+                    
+                    <div class="career-path-content">
+                        <div class="path-section overview-section">
+                            <h4><i class="fas fa-bullseye"></i> Career Overview</h4>
+                            <p>${career.description || 'A dynamic career path with opportunities for growth and innovation.'}</p>
+                        </div>
+
+                        <div class="path-section skills-section">
+                            <h4><i class="fas fa-tools"></i> Essential Skills</h4>
+                            <div class="skills-tags">
+                                ${(career.required_skills || []).map(skill => `
+                                    <span class="skill-tag"><i class="fas fa-check"></i>${skill}</span>
+                                `).join('')}
+                            </div>
+                        </div>
+
+                        <div class="path-section growth-section">
+                            <h4><i class="fas fa-chart-line"></i> Growth & Opportunities</h4>
+                            <ul class="growth-list">
+                                ${(career.growth_opportunities || []).map(opportunity => `
+                                    <li>
+                                        <i class="fas fa-arrow-trend-up"></i>
+                                        <span>${opportunity}</span>
+                                    </li>
+                                `).join('')}
+                            </ul>
+                        </div>
+
+                        <div class="path-actions">
+                            <button class="action-btn jobs-btn" onclick="window.open('https://www.linkedin.com/jobs/search/?keywords=${encodeURIComponent(career.career)}', '_blank')">
+                                <i class="fab fa-linkedin"></i> Find Jobs
+                            </button>
+                            <button class="action-btn courses-btn" onclick="window.open('https://www.coursera.org/search?query=${encodeURIComponent(career.career)}', '_blank')">
+                                <i class="fas fa-graduation-cap"></i> Find Courses
+                            </button>
+                            <button class="action-btn roadmap-btn" onclick="window.open('/roadmap/${encodeURIComponent(career.career)}', '_blank')">
+                                <i class="fas fa-map"></i> View Roadmap
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+
+            recommendationsContainer.innerHTML = careerPaths;
+        });
+
+        function getCareerIcon(career) {
+            const iconMap = {
+                'Software Developer': 'fa-code',
+                'Data Scientist': 'fa-database',
+                'Business Analyst': 'fa-chart-pie',
+                'UX Designer': 'fa-palette',
+                'Project Manager': 'fa-tasks',
+                'DevOps Engineer': 'fa-gears',
+                'Cloud Architect': 'fa-cloud',
+                'Cybersecurity Analyst': 'fa-shield-halved',
+                'Mobile Developer': 'fa-mobile-screen',
+                'Game Developer': 'fa-gamepad',
+                'Blockchain Developer': 'fa-link',
+                'Robotics Engineer': 'fa-robot',
+                'AI/ML Engineer': 'fa-brain',
+                'Full Stack Developer': 'fa-layer-group',
+                'QA Engineer': 'fa-bug',
+                'System Administrator': 'fa-server',
+                'Network Engineer': 'fa-network-wired',
+                'Database Administrator': 'fa-database',
+                'Technical Lead': 'fa-users-gear',
+                'Product Manager': 'fa-compass'
+            };
+            return iconMap[career] || 'fa-laptop-code';
+        }
+    </script>
+</body>
+</html> 

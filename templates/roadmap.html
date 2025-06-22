@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career Roadmap - {{ career }}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/roadmap.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+    <div class="roadmap-page">
+        <nav class="roadmap-nav">
+            <div class="nav-content">
+                <h1>Career Roadmap</h1>
+                <div class="nav-actions">
+                    <button onclick="window.print()" class="nav-btn">
+                        <i class="fas fa-print"></i> Print Roadmap
+                    </button>
+                    <button onclick="window.history.back()" class="nav-btn primary">
+                        <i class="fas fa-arrow-left"></i> Back to Results
+                    </button>
+                </div>
+            </div>
+        </nav>
+
+        <div class="roadmap-hero">
+            <div class="hero-content">
+                <h2>{{ career }}</h2>
+                <p>Your step-by-step guide to becoming a {{ career }}</p>
+            </div>
+        </div>
+
+        <main class="roadmap-main">
+            <!-- Flowchart View -->
+            <div class="roadmap-view-toggle">
+                <button class="view-btn active" onclick="toggleView('flowchart')">
+                    <i class="fas fa-project-diagram"></i> Flowchart View
+                </button>
+                <button class="view-btn" onclick="toggleView('list')">
+                    <i class="fas fa-list"></i> List View
+                </button>
+            </div>
+
+            <div id="flowchart-view" class="roadmap-view">
+                <div class="mermaid">
+                    graph TB
+                    classDef foundation fill:#e3f2fd,stroke:#2196f3,stroke-width:2px
+                    classDef intermediate fill:#e8f5e9,stroke:#4caf50,stroke-width:2px
+                    classDef advanced fill:#fce4ec,stroke:#e91e63,stroke-width:2px
+                    classDef expert fill:#fff3e0,stroke:#ff9800,stroke-width:2px
+
+                    subgraph Foundation[Foundation Level]
+                    {% for skill in roadmap.foundation %}
+                        F{{ loop.index }}[{{ skill }}]
+                    {% endfor %}
+                    {% for i in range(roadmap.foundation|length - 1) %}
+                        F{{ i + 1 }} --> F{{ i + 2 }}
+                    {% endfor %}
+                    end
+
+                    subgraph Intermediate[Intermediate Level]
+                    {% for skill in roadmap.intermediate %}
+                        I{{ loop.index }}[{{ skill }}]
+                    {% endfor %}
+                    {% for i in range(roadmap.intermediate|length - 1) %}
+                        I{{ i + 1 }} --> I{{ i + 2 }}
+                    {% endfor %}
+                    end
+
+                    subgraph Advanced[Advanced Level]
+                    {% for skill in roadmap.advanced %}
+                        A{{ loop.index }}[{{ skill }}]
+                    {% endfor %}
+                    {% for i in range(roadmap.advanced|length - 1) %}
+                        A{{ i + 1 }} --> A{{ i + 2 }}
+                    {% endfor %}
+                    end
+
+                    subgraph Expert[Expert Level]
+                    {% for skill in roadmap.expert %}
+                        E{{ loop.index }}[{{ skill }}]
+                    {% endfor %}
+                    {% for i in range(roadmap.expert|length - 1) %}
+                        E{{ i + 1 }} --> E{{ i + 2 }}
+                    {% endfor %}
+                    end
+
+                    F{{ roadmap.foundation|length }} --> I1
+                    I{{ roadmap.intermediate|length }} --> A1
+                    A{{ roadmap.advanced|length }} --> E1
+
+                    class F1,F2,F3,F4,F5,F6,F7 foundation
+                    class I1,I2,I3,I4,I5,I6,I7 intermediate
+                    class A1,A2,A3,A4,A5,A6,A7 advanced
+                    class E1,E2,E3,E4,E5,E6,E7 expert
+                </div>
+            </div>
+
+            <!-- List View -->
+            <div id="list-view" class="roadmap-view" style="display: none;">
+                <div class="roadmap-timeline">
+                    <!-- Foundation Stage -->
+                    <div class="roadmap-stage">
+                        <div class="stage-header">
+                            <div class="stage-icon">
+                                <i class="fas fa-book"></i>
+                            </div>
+                            <h3>Foundation</h3>
+                        </div>
+                        <div class="stage-content">
+                            <ul class="milestone-list">
+                                {% for milestone in roadmap.foundation %}
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <span>{{ milestone }}</span>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Intermediate Stage -->
+                    <div class="roadmap-stage">
+                        <div class="stage-header">
+                            <div class="stage-icon">
+                                <i class="fas fa-laptop-code"></i>
+                            </div>
+                            <h3>Intermediate</h3>
+                        </div>
+                        <div class="stage-content">
+                            <ul class="milestone-list">
+                                {% for milestone in roadmap.intermediate %}
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <span>{{ milestone }}</span>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Advanced Stage -->
+                    <div class="roadmap-stage">
+                        <div class="stage-header">
+                            <div class="stage-icon">
+                                <i class="fas fa-rocket"></i>
+                            </div>
+                            <h3>Advanced</h3>
+                        </div>
+                        <div class="stage-content">
+                            <ul class="milestone-list">
+                                {% for milestone in roadmap.advanced %}
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <span>{{ milestone }}</span>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Expert Stage -->
+                    <div class="roadmap-stage">
+                        <div class="stage-header">
+                            <div class="stage-icon">
+                                <i class="fas fa-crown"></i>
+                            </div>
+                            <h3>Expert</h3>
+                        </div>
+                        <div class="stage-content">
+                            <ul class="milestone-list">
+                                {% for milestone in roadmap.expert %}
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <span>{{ milestone }}</span>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        // Initialize Mermaid
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'default',
+            flowchart: {
+                useMaxWidth: true,
+                htmlLabels: true,
+                curve: 'basis'
+            }
+        });
+
+        // View toggle function
+        function toggleView(viewType) {
+            const flowchartView = document.getElementById('flowchart-view');
+            const listView = document.getElementById('list-view');
+            const buttons = document.querySelectorAll('.view-btn');
+
+            if (viewType === 'flowchart') {
+                flowchartView.style.display = 'block';
+                listView.style.display = 'none';
+                buttons[0].classList.add('active');
+                buttons[1].classList.remove('active');
+            } else {
+                flowchartView.style.display = 'none';
+                listView.style.display = 'block';
+                buttons[0].classList.remove('active');
+                buttons[1].classList.add('active');
+            }
+        }
+    </script>
+</body>
+</html> 

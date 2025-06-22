@@ -1,0 +1,511 @@
+{
+    "Software Developer": {
+        "programming_concept_percentage": [
+            70,
+            100
+        ],
+        "communication_skills_percentage": [
+            50,
+            80
+        ],
+        "hours_working_per_day": [
+            6,
+            10
+        ],
+        "hackathons": [
+            1,
+            5
+        ],
+        "coding_skills_rating": [
+            8,
+            10
+        ],
+        "public_speaking_points": [
+            4,
+            8
+        ],
+        "self_learning_capability": [
+            7,
+            10
+        ],
+        "certifications": [
+            1,
+            3
+        ],
+        "workshops": [
+            2,
+            5
+        ],
+        "interested_subjects": [
+            "Web Development",
+            "Mobile Development",
+            "Game Development"
+        ],
+        "interested_career_area": [
+            "Technology"
+        ],
+        "company_type": [
+            "Startup",
+            "Product",
+            "Service"
+        ]
+    },
+    "Data Scientist": {
+        "programming_concept_percentage": [
+            60,
+            90
+        ],
+        "communication_skills_percentage": [
+            60,
+            90
+        ],
+        "hours_working_per_day": [
+            6,
+            9
+        ],
+        "hackathons": [
+            1,
+            4
+        ],
+        "coding_skills_rating": [
+            7,
+            10
+        ],
+        "public_speaking_points": [
+            5,
+            9
+        ],
+        "self_learning_capability": [
+            8,
+            10
+        ],
+        "certifications": [
+            2,
+            4
+        ],
+        "workshops": [
+            3,
+            6
+        ],
+        "interested_subjects": [
+            "Data Science",
+            "AI/ML",
+            "Cloud Computing"
+        ],
+        "interested_career_area": [
+            "Technology",
+            "Research"
+        ],
+        "company_type": [
+            "MNC",
+            "Product",
+            "Service"
+        ]
+    },
+    "DevOps Engineer": {
+        "programming_concept_percentage": [
+            65,
+            95
+        ],
+        "communication_skills_percentage": [
+            55,
+            85
+        ],
+        "hours_working_per_day": [
+            7,
+            10
+        ],
+        "hackathons": [
+            1,
+            3
+        ],
+        "coding_skills_rating": [
+            7,
+            9
+        ],
+        "public_speaking_points": [
+            4,
+            8
+        ],
+        "self_learning_capability": [
+            8,
+            10
+        ],
+        "certifications": [
+            2,
+            5
+        ],
+        "workshops": [
+            2,
+            5
+        ],
+        "interested_subjects": [
+            "Cloud Computing",
+            "DevOps",
+            "Cybersecurity"
+        ],
+        "interested_career_area": [
+            "Technology"
+        ],
+        "company_type": [
+            "MNC",
+            "Product",
+            "Service"
+        ]
+    },
+    "Cybersecurity Analyst": {
+        "programming_concept_percentage": [
+            60,
+            90
+        ],
+        "communication_skills_percentage": [
+            50,
+            80
+        ],
+        "hours_working_per_day": [
+            6,
+            9
+        ],
+        "hackathons": [
+            2,
+            5
+        ],
+        "coding_skills_rating": [
+            6,
+            9
+        ],
+        "public_speaking_points": [
+            5,
+            9
+        ],
+        "self_learning_capability": [
+            8,
+            10
+        ],
+        "certifications": [
+            2,
+            4
+        ],
+        "workshops": [
+            3,
+            6
+        ],
+        "interested_subjects": [
+            "Cybersecurity",
+            "Cloud Computing",
+            "Blockchain"
+        ],
+        "interested_career_area": [
+            "Technology"
+        ],
+        "company_type": [
+            "MNC",
+            "Service"
+        ]
+    },
+    "Mobile Developer": {
+        "programming_concept_percentage": [
+            70,
+            100
+        ],
+        "communication_skills_percentage": [
+            50,
+            80
+        ],
+        "hours_working_per_day": [
+            6,
+            10
+        ],
+        "hackathons": [
+            1,
+            4
+        ],
+        "coding_skills_rating": [
+            8,
+            10
+        ],
+        "public_speaking_points": [
+            4,
+            8
+        ],
+        "self_learning_capability": [
+            7,
+            10
+        ],
+        "certifications": [
+            1,
+            3
+        ],
+        "workshops": [
+            2,
+            5
+        ],
+        "interested_subjects": [
+            "Mobile Development",
+            "Web Development",
+            "Game Development"
+        ],
+        "interested_career_area": [
+            "Technology"
+        ],
+        "company_type": [
+            "Startup",
+            "Product",
+            "Service"
+        ]
+    },
+    "Game Developer": {
+        "programming_concept_percentage": [
+            75,
+            100
+        ],
+        "communication_skills_percentage": [
+            50,
+            80
+        ],
+        "hours_working_per_day": [
+            7,
+            11
+        ],
+        "hackathons": [
+            1,
+            4
+        ],
+        "coding_skills_rating": [
+            8,
+            10
+        ],
+        "public_speaking_points": [
+            4,
+            8
+        ],
+        "self_learning_capability": [
+            7,
+            10
+        ],
+        "certifications": [
+            1,
+            3
+        ],
+        "workshops": [
+            2,
+            5
+        ],
+        "interested_subjects": [
+            "Game Development",
+            "Mobile Development",
+            "Web Development"
+        ],
+        "interested_career_area": [
+            "Technology",
+            "Creative"
+        ],
+        "company_type": [
+            "Startup",
+            "Product"
+        ]
+    },
+    "Blockchain Developer": {
+        "programming_concept_percentage": [
+            70,
+            100
+        ],
+        "communication_skills_percentage": [
+            50,
+            80
+        ],
+        "hours_working_per_day": [
+            6,
+            10
+        ],
+        "hackathons": [
+            1,
+            4
+        ],
+        "coding_skills_rating": [
+            8,
+            10
+        ],
+        "public_speaking_points": [
+            4,
+            8
+        ],
+        "self_learning_capability": [
+            8,
+            10
+        ],
+        "certifications": [
+            2,
+            4
+        ],
+        "workshops": [
+            2,
+            5
+        ],
+        "interested_subjects": [
+            "Blockchain",
+            "Web Development",
+            "Cybersecurity"
+        ],
+        "interested_career_area": [
+            "Technology"
+        ],
+        "company_type": [
+            "Startup",
+            "Product"
+        ]
+    },
+    "Robotics Engineer": {
+        "programming_concept_percentage": [
+            65,
+            95
+        ],
+        "communication_skills_percentage": [
+            55,
+            85
+        ],
+        "hours_working_per_day": [
+            6,
+            9
+        ],
+        "hackathons": [
+            1,
+            4
+        ],
+        "coding_skills_rating": [
+            7,
+            9
+        ],
+        "public_speaking_points": [
+            5,
+            9
+        ],
+        "self_learning_capability": [
+            8,
+            10
+        ],
+        "certifications": [
+            2,
+            4
+        ],
+        "workshops": [
+            3,
+            6
+        ],
+        "interested_subjects": [
+            "Robotics",
+            "AI/ML",
+            "Mobile Development"
+        ],
+        "interested_career_area": [
+            "Technology",
+            "Research"
+        ],
+        "company_type": [
+            "MNC",
+            "Product"
+        ]
+    },
+    "AI/ML Engineer": {
+        "programming_concept_percentage": [
+            65,
+            95
+        ],
+        "communication_skills_percentage": [
+            55,
+            85
+        ],
+        "hours_working_per_day": [
+            6,
+            9
+        ],
+        "hackathons": [
+            1,
+            4
+        ],
+        "coding_skills_rating": [
+            7,
+            9
+        ],
+        "public_speaking_points": [
+            5,
+            9
+        ],
+        "self_learning_capability": [
+            8,
+            10
+        ],
+        "certifications": [
+            2,
+            4
+        ],
+        "workshops": [
+            3,
+            6
+        ],
+        "interested_subjects": [
+            "AI/ML",
+            "Data Science",
+            "Robotics"
+        ],
+        "interested_career_area": [
+            "Technology",
+            "Research"
+        ],
+        "company_type": [
+            "MNC",
+            "Product"
+        ]
+    },
+    "Full Stack Developer": {
+        "programming_concept_percentage": [
+            75,
+            100
+        ],
+        "communication_skills_percentage": [
+            50,
+            80
+        ],
+        "hours_working_per_day": [
+            6,
+            10
+        ],
+        "hackathons": [
+            1,
+            4
+        ],
+        "coding_skills_rating": [
+            8,
+            10
+        ],
+        "public_speaking_points": [
+            4,
+            8
+        ],
+        "self_learning_capability": [
+            7,
+            10
+        ],
+        "certifications": [
+            1,
+            3
+        ],
+        "workshops": [
+            2,
+            5
+        ],
+        "interested_subjects": [
+            "Web Development",
+            "Mobile Development",
+            "Cloud Computing"
+        ],
+        "interested_career_area": [
+            "Technology"
+        ],
+        "company_type": [
+            "Startup",
+            "Product",
+            "Service"
+        ]
+    }
+}

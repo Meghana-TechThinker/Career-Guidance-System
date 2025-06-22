@@ -1,0 +1,1001 @@
+career,programming_concept_percentage,communication_skills_percentage,hours_working_per_day,hackathons,coding_skills_rating,public_speaking_points,self_learning_capability,certifications,workshops,interested_subjects,interested_career_area,company_type
+Software Developer,91,64,7,3,8,4,9,2,4,['Web Development'],['Technology'],Startup
+Software Developer,87,58,9,4,8,6,8,2,2,['Game Development'],['Technology'],Product
+Software Developer,70,74,8,1,9,6,9,2,4,"['Game Development', 'Web Development', 'Mobile Development']",['Technology'],Service
+Software Developer,80,79,8,4,8,4,7,1,2,['Web Development'],['Technology'],Startup
+Software Developer,80,65,8,3,8,6,7,1,2,['Web Development'],['Technology'],Service
+Software Developer,75,74,6,2,8,6,7,2,2,"['Game Development', 'Web Development']",['Technology'],Service
+Software Developer,70,69,8,1,9,4,7,2,2,"['Mobile Development', 'Web Development', 'Game Development']",['Technology'],Service
+Software Developer,74,50,9,3,9,4,9,2,4,['Game Development'],['Technology'],Startup
+Software Developer,99,68,6,2,9,4,7,2,2,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Product
+Software Developer,90,64,6,3,8,6,8,2,2,"['Game Development', 'Web Development']",['Technology'],Service
+Software Developer,93,55,8,3,9,6,8,1,3,"['Mobile Development', 'Game Development']",['Technology'],Service
+Software Developer,75,68,9,3,8,7,7,1,2,"['Game Development', 'Web Development', 'Mobile Development']",['Technology'],Service
+Software Developer,81,52,7,2,8,5,8,2,3,"['Web Development', 'Mobile Development']",['Technology'],Startup
+Software Developer,85,67,7,4,8,4,7,1,2,"['Mobile Development', 'Web Development', 'Game Development']",['Technology'],Service
+Software Developer,70,68,9,4,8,5,9,1,2,"['Game Development', 'Web Development', 'Mobile Development']",['Technology'],Service
+Software Developer,87,60,8,4,9,7,7,2,4,['Web Development'],['Technology'],Service
+Software Developer,80,71,6,4,9,5,7,2,3,['Web Development'],['Technology'],Product
+Software Developer,76,77,9,4,9,5,8,1,2,['Game Development'],['Technology'],Startup
+Software Developer,79,72,9,1,9,6,7,2,2,"['Game Development', 'Web Development']",['Technology'],Service
+Software Developer,79,61,8,2,9,5,7,1,3,"['Web Development', 'Mobile Development', 'Game Development']",['Technology'],Service
+Software Developer,83,68,8,1,9,7,8,2,4,['Web Development'],['Technology'],Startup
+Software Developer,76,63,8,2,9,5,9,2,2,"['Game Development', 'Web Development']",['Technology'],Product
+Software Developer,93,79,9,4,9,4,8,1,2,"['Game Development', 'Web Development', 'Mobile Development']",['Technology'],Service
+Software Developer,89,61,6,4,8,4,8,1,3,['Game Development'],['Technology'],Startup
+Software Developer,88,79,7,4,9,5,8,1,3,['Game Development'],['Technology'],Startup
+Software Developer,75,60,7,3,8,7,8,2,2,"['Mobile Development', 'Web Development', 'Game Development']",['Technology'],Product
+Software Developer,84,77,7,2,9,4,7,1,3,"['Mobile Development', 'Web Development', 'Game Development']",['Technology'],Product
+Software Developer,96,52,7,1,9,6,7,2,4,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Service
+Software Developer,79,78,9,4,8,4,9,1,3,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Product
+Software Developer,96,61,7,4,8,4,9,2,3,"['Web Development', 'Mobile Development']",['Technology'],Service
+Software Developer,97,53,9,3,8,7,9,2,2,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Startup
+Software Developer,90,71,8,2,8,5,8,2,3,"['Mobile Development', 'Game Development']",['Technology'],Startup
+Software Developer,75,70,7,2,9,6,8,1,4,['Mobile Development'],['Technology'],Service
+Software Developer,81,79,6,1,9,4,7,2,4,['Mobile Development'],['Technology'],Service
+Software Developer,83,54,7,4,9,6,9,2,4,"['Mobile Development', 'Game Development']",['Technology'],Startup
+Software Developer,72,52,7,3,9,7,9,2,2,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Service
+Software Developer,84,79,7,4,8,6,9,2,2,"['Mobile Development', 'Web Development', 'Game Development']",['Technology'],Product
+Software Developer,74,69,7,1,8,4,7,2,2,"['Mobile Development', 'Web Development', 'Game Development']",['Technology'],Service
+Software Developer,96,68,9,2,9,6,8,1,3,"['Mobile Development', 'Game Development', 'Web Development']",['Technology'],Product
+Software Developer,89,58,7,2,8,4,7,2,2,"['Game Development', 'Web Development', 'Mobile Development']",['Technology'],Product
+Software Developer,99,75,8,3,8,4,7,1,4,['Game Development'],['Technology'],Service
+Software Developer,98,66,8,4,9,7,7,1,4,['Mobile Development'],['Technology'],Startup
+Software Developer,95,74,8,3,8,5,9,1,2,['Web Development'],['Technology'],Startup
+Software Developer,81,63,6,2,8,4,7,1,4,['Mobile Development'],['Technology'],Product
+Software Developer,71,65,6,3,9,6,9,2,4,['Web Development'],['Technology'],Startup
+Software Developer,95,60,9,4,9,6,9,1,3,"['Web Development', 'Mobile Development']",['Technology'],Service
+Software Developer,73,78,9,2,9,6,7,2,2,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Startup
+Software Developer,96,59,8,2,8,6,7,1,3,['Web Development'],['Technology'],Product
+Software Developer,94,68,6,3,8,5,9,1,2,['Mobile Development'],['Technology'],Product
+Software Developer,85,65,7,4,8,6,8,1,2,"['Mobile Development', 'Web Development']",['Technology'],Startup
+Software Developer,90,76,9,2,9,5,8,1,4,"['Mobile Development', 'Game Development', 'Web Development']",['Technology'],Service
+Software Developer,80,76,8,1,8,4,8,1,3,"['Mobile Development', 'Game Development']",['Technology'],Startup
+Software Developer,73,58,7,4,9,6,9,1,4,"['Game Development', 'Web Development', 'Mobile Development']",['Technology'],Startup
+Software Developer,80,73,9,2,8,6,8,2,2,"['Game Development', 'Mobile Development']",['Technology'],Startup
+Software Developer,75,65,9,2,8,4,9,1,3,"['Mobile Development', 'Web Development', 'Game Development']",['Technology'],Service
+Software Developer,75,57,9,4,8,5,7,1,2,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Product
+Software Developer,73,59,9,1,9,6,8,1,3,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Startup
+Software Developer,83,58,7,3,9,6,8,2,2,"['Mobile Development', 'Game Development']",['Technology'],Product
+Software Developer,70,71,6,2,8,7,8,2,2,['Web Development'],['Technology'],Startup
+Software Developer,78,55,6,1,8,6,8,2,4,['Game Development'],['Technology'],Product
+Software Developer,76,76,9,2,8,5,9,1,3,"['Web Development', 'Mobile Development']",['Technology'],Product
+Software Developer,77,77,8,2,8,4,8,2,2,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Product
+Software Developer,95,78,6,4,8,5,9,1,3,"['Web Development', 'Mobile Development']",['Technology'],Startup
+Software Developer,96,70,7,2,9,6,7,1,2,['Web Development'],['Technology'],Startup
+Software Developer,79,64,8,4,9,6,8,1,3,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Startup
+Software Developer,73,59,8,3,8,6,8,1,2,"['Web Development', 'Mobile Development']",['Technology'],Service
+Software Developer,82,58,9,3,8,6,8,1,2,['Game Development'],['Technology'],Service
+Software Developer,86,57,6,1,8,4,8,2,3,"['Web Development', 'Mobile Development', 'Game Development']",['Technology'],Service
+Software Developer,90,68,7,3,9,7,8,2,2,"['Web Development', 'Game Development']",['Technology'],Product
+Software Developer,78,74,8,3,9,7,7,1,4,"['Web Development', 'Mobile Development']",['Technology'],Startup
+Software Developer,71,74,7,2,9,5,7,2,3,"['Mobile Development', 'Game Development', 'Web Development']",['Technology'],Product
+Software Developer,92,71,7,3,8,7,9,2,2,"['Mobile Development', 'Web Development']",['Technology'],Startup
+Software Developer,71,56,6,3,8,5,7,2,3,"['Mobile Development', 'Web Development', 'Game Development']",['Technology'],Service
+Software Developer,72,58,9,2,8,7,7,2,2,"['Game Development', 'Web Development', 'Mobile Development']",['Technology'],Startup
+Software Developer,94,68,9,1,8,4,9,1,2,['Game Development'],['Technology'],Startup
+Software Developer,75,60,6,1,9,7,8,1,3,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Service
+Software Developer,97,78,8,4,8,7,7,2,2,"['Mobile Development', 'Game Development', 'Web Development']",['Technology'],Product
+Software Developer,72,50,9,1,8,7,7,1,4,"['Web Development', 'Mobile Development', 'Game Development']",['Technology'],Startup
+Software Developer,77,54,8,2,9,6,9,2,4,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Product
+Software Developer,88,77,7,2,9,5,8,1,3,"['Web Development', 'Mobile Development', 'Game Development']",['Technology'],Startup
+Software Developer,85,64,8,1,8,6,9,1,3,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Startup
+Software Developer,74,55,6,2,8,5,7,2,2,['Mobile Development'],['Technology'],Startup
+Software Developer,86,75,6,1,9,4,7,2,3,['Web Development'],['Technology'],Product
+Software Developer,95,66,9,3,8,7,8,1,2,"['Mobile Development', 'Game Development', 'Web Development']",['Technology'],Service
+Software Developer,70,66,6,3,8,4,8,2,2,"['Game Development', 'Web Development']",['Technology'],Service
+Software Developer,71,52,8,3,8,6,8,2,4,"['Mobile Development', 'Web Development', 'Game Development']",['Technology'],Product
+Software Developer,96,59,8,1,8,4,9,1,4,['Web Development'],['Technology'],Startup
+Software Developer,72,54,8,3,8,7,7,2,4,['Web Development'],['Technology'],Startup
+Software Developer,79,65,9,3,8,7,9,1,4,"['Game Development', 'Mobile Development']",['Technology'],Service
+Software Developer,87,67,6,2,9,7,7,2,4,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Startup
+Software Developer,79,54,9,1,8,6,8,2,2,['Game Development'],['Technology'],Product
+Software Developer,92,66,9,1,8,4,8,2,3,"['Web Development', 'Mobile Development']",['Technology'],Product
+Software Developer,80,70,8,1,8,5,9,1,3,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Service
+Software Developer,76,66,8,3,9,5,8,2,2,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Product
+Software Developer,94,52,6,1,9,7,9,2,4,"['Mobile Development', 'Web Development']",['Technology'],Service
+Software Developer,73,60,8,4,9,6,7,2,4,"['Mobile Development', 'Web Development']",['Technology'],Startup
+Software Developer,79,57,8,1,9,7,9,1,3,"['Game Development', 'Mobile Development']",['Technology'],Service
+Software Developer,91,79,8,4,9,6,9,1,4,['Game Development'],['Technology'],Startup
+Software Developer,72,50,7,3,8,6,9,1,3,['Mobile Development'],['Technology'],Service
+Software Developer,73,79,7,3,9,4,8,1,3,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Startup
+Data Scientist,66,69,7,1,8,7,9,3,5,['Cloud Computing'],['Research'],Service
+Data Scientist,76,79,8,1,9,5,8,2,3,['Cloud Computing'],['Technology'],Service
+Data Scientist,77,79,8,2,9,8,9,3,4,"['AI/ML', 'Cloud Computing']","['Research', 'Technology']",Product
+Data Scientist,62,88,6,1,8,7,9,2,5,['AI/ML'],['Technology'],MNC
+Data Scientist,76,60,6,2,8,8,9,3,5,"['Data Science', 'AI/ML', 'Cloud Computing']",['Research'],MNC
+Data Scientist,63,81,8,3,8,5,9,3,5,"['Data Science', 'Cloud Computing']","['Research', 'Technology']",MNC
+Data Scientist,76,82,8,3,7,6,9,2,5,"['Data Science', 'AI/ML']",['Research'],Service
+Data Scientist,64,87,8,1,8,6,8,3,4,['Cloud Computing'],"['Research', 'Technology']",Product
+Data Scientist,76,65,7,2,7,6,8,2,3,['Data Science'],"['Research', 'Technology']",Service
+Data Scientist,65,88,7,2,9,6,9,2,3,['Cloud Computing'],"['Technology', 'Research']",MNC
+Data Scientist,80,74,6,2,9,8,9,3,4,"['Cloud Computing', 'Data Science']",['Technology'],MNC
+Data Scientist,71,73,8,2,8,7,9,2,5,['AI/ML'],['Research'],Product
+Data Scientist,61,63,6,3,8,8,8,2,5,['AI/ML'],"['Research', 'Technology']",MNC
+Data Scientist,65,78,6,3,9,8,9,2,3,"['Data Science', 'AI/ML', 'Cloud Computing']",['Technology'],Product
+Data Scientist,82,78,8,2,9,7,8,3,3,"['Data Science', 'AI/ML', 'Cloud Computing']",['Technology'],Service
+Data Scientist,89,67,7,3,9,6,8,3,5,"['AI/ML', 'Cloud Computing', 'Data Science']","['Technology', 'Research']",MNC
+Data Scientist,61,73,8,3,7,6,8,3,5,"['Data Science', 'Cloud Computing']",['Technology'],Product
+Data Scientist,85,71,8,2,7,8,8,2,3,['AI/ML'],['Technology'],MNC
+Data Scientist,66,70,7,1,9,5,9,2,5,"['Cloud Computing', 'AI/ML', 'Data Science']","['Technology', 'Research']",Product
+Data Scientist,88,69,6,3,9,8,9,3,4,"['Cloud Computing', 'AI/ML', 'Data Science']",['Technology'],MNC
+Data Scientist,87,81,6,1,7,5,8,3,4,['Data Science'],"['Research', 'Technology']",MNC
+Data Scientist,72,85,8,1,9,6,8,2,5,"['AI/ML', 'Data Science', 'Cloud Computing']","['Technology', 'Research']",MNC
+Data Scientist,63,70,8,1,7,8,9,3,5,['Cloud Computing'],"['Technology', 'Research']",Service
+Data Scientist,75,85,6,3,8,7,9,3,3,"['Cloud Computing', 'Data Science']","['Technology', 'Research']",MNC
+Data Scientist,76,86,8,3,7,8,8,3,5,['Cloud Computing'],"['Research', 'Technology']",Product
+Data Scientist,89,73,8,2,8,8,8,2,4,"['Cloud Computing', 'AI/ML', 'Data Science']","['Research', 'Technology']",Product
+Data Scientist,69,80,6,3,7,8,9,2,5,['AI/ML'],['Research'],Product
+Data Scientist,79,84,7,2,8,8,9,2,5,['Data Science'],"['Research', 'Technology']",Product
+Data Scientist,85,71,6,1,9,8,9,3,3,"['AI/ML', 'Data Science', 'Cloud Computing']",['Technology'],Product
+Data Scientist,64,79,8,1,9,6,9,3,4,['Cloud Computing'],"['Technology', 'Research']",Service
+Data Scientist,81,74,8,3,8,7,8,3,5,['Data Science'],"['Technology', 'Research']",Product
+Data Scientist,82,81,6,1,8,8,8,2,3,['Data Science'],"['Technology', 'Research']",Service
+Data Scientist,73,82,6,1,7,8,8,3,4,['Data Science'],['Research'],Service
+Data Scientist,73,64,8,3,7,8,8,2,5,['Data Science'],"['Research', 'Technology']",MNC
+Data Scientist,63,75,8,3,9,5,9,2,5,"['Data Science', 'Cloud Computing']",['Technology'],MNC
+Data Scientist,64,89,6,3,9,8,8,3,4,"['Cloud Computing', 'Data Science']","['Technology', 'Research']",Product
+Data Scientist,87,65,8,3,7,8,9,3,3,"['Cloud Computing', 'Data Science', 'AI/ML']","['Research', 'Technology']",Product
+Data Scientist,67,62,6,3,8,5,9,2,4,"['Data Science', 'AI/ML', 'Cloud Computing']",['Research'],Service
+Data Scientist,62,71,8,3,8,5,8,3,4,"['Data Science', 'AI/ML', 'Cloud Computing']",['Research'],Product
+Data Scientist,89,75,8,3,8,8,8,2,5,"['AI/ML', 'Data Science']",['Research'],Product
+Data Scientist,65,62,7,2,7,8,8,2,4,['Data Science'],['Technology'],Product
+Data Scientist,74,72,7,3,7,5,9,2,3,"['AI/ML', 'Cloud Computing', 'Data Science']","['Research', 'Technology']",MNC
+Data Scientist,82,75,7,3,7,7,8,2,4,"['AI/ML', 'Data Science']","['Technology', 'Research']",MNC
+Data Scientist,70,69,7,2,7,5,9,2,4,"['Data Science', 'AI/ML', 'Cloud Computing']",['Research'],MNC
+Data Scientist,84,65,6,2,8,7,8,3,5,['AI/ML'],['Technology'],Product
+Data Scientist,86,72,6,3,7,6,9,3,4,"['Cloud Computing', 'AI/ML', 'Data Science']",['Research'],MNC
+Data Scientist,65,79,6,3,9,7,8,3,3,['AI/ML'],"['Research', 'Technology']",Product
+Data Scientist,74,73,8,1,9,6,9,2,5,"['AI/ML', 'Cloud Computing', 'Data Science']",['Research'],Product
+Data Scientist,60,88,7,3,9,5,9,3,3,['Data Science'],['Research'],MNC
+Data Scientist,86,86,8,2,8,5,8,3,3,"['AI/ML', 'Cloud Computing']",['Research'],Service
+Data Scientist,82,61,6,3,8,7,8,2,4,['Data Science'],"['Technology', 'Research']",Service
+Data Scientist,62,63,6,1,7,5,9,3,4,['Cloud Computing'],"['Technology', 'Research']",Product
+Data Scientist,80,87,7,1,8,8,8,3,3,['Cloud Computing'],"['Technology', 'Research']",Service
+Data Scientist,79,87,6,2,7,7,8,3,3,"['AI/ML', 'Data Science', 'Cloud Computing']","['Technology', 'Research']",Service
+Data Scientist,81,67,7,3,8,8,8,3,3,['Data Science'],['Research'],Service
+Data Scientist,78,71,8,1,9,8,9,2,5,"['Cloud Computing', 'AI/ML', 'Data Science']","['Technology', 'Research']",Product
+Data Scientist,60,80,8,2,7,7,9,2,3,"['Cloud Computing', 'Data Science', 'AI/ML']","['Research', 'Technology']",Service
+Data Scientist,71,85,8,2,9,6,9,3,4,"['Cloud Computing', 'AI/ML']","['Technology', 'Research']",Product
+Data Scientist,84,85,8,3,7,8,9,2,5,"['Cloud Computing', 'AI/ML']",['Research'],Service
+Data Scientist,75,71,6,2,8,5,8,2,4,['AI/ML'],"['Research', 'Technology']",Service
+Data Scientist,82,61,8,1,8,5,8,3,4,"['AI/ML', 'Cloud Computing']",['Research'],Product
+Data Scientist,84,72,8,1,7,7,8,3,3,"['Cloud Computing', 'Data Science']","['Research', 'Technology']",Service
+Data Scientist,65,68,6,1,8,6,9,2,3,['Cloud Computing'],['Technology'],Service
+Data Scientist,86,66,7,1,9,8,9,2,4,['AI/ML'],['Research'],Product
+Data Scientist,70,73,7,3,7,8,8,2,5,"['Data Science', 'Cloud Computing', 'AI/ML']",['Research'],Product
+Data Scientist,74,82,6,2,7,7,8,2,4,"['Cloud Computing', 'AI/ML']","['Technology', 'Research']",Service
+Data Scientist,60,72,8,1,7,8,9,2,5,"['AI/ML', 'Cloud Computing']","['Technology', 'Research']",Product
+Data Scientist,79,88,7,1,8,8,9,3,5,['Cloud Computing'],"['Technology', 'Research']",Service
+Data Scientist,87,84,8,2,9,8,9,3,4,"['Cloud Computing', 'Data Science', 'AI/ML']",['Technology'],MNC
+Data Scientist,78,63,8,2,7,8,9,2,3,['AI/ML'],['Research'],Service
+Data Scientist,86,69,7,2,8,8,9,2,4,"['Data Science', 'AI/ML', 'Cloud Computing']","['Research', 'Technology']",Product
+Data Scientist,80,70,6,2,8,8,9,2,4,['Data Science'],['Technology'],Service
+Data Scientist,70,71,6,2,8,6,8,2,3,"['Cloud Computing', 'AI/ML']",['Technology'],Product
+Data Scientist,68,83,8,2,8,6,8,2,5,['Data Science'],"['Research', 'Technology']",Product
+Data Scientist,63,87,7,2,9,6,9,3,4,['AI/ML'],['Technology'],MNC
+Data Scientist,69,85,8,2,7,6,9,2,5,"['AI/ML', 'Cloud Computing', 'Data Science']",['Research'],Service
+Data Scientist,83,64,7,3,7,6,9,3,3,"['AI/ML', 'Data Science', 'Cloud Computing']",['Research'],Service
+Data Scientist,79,71,7,3,8,8,9,2,4,['Cloud Computing'],"['Technology', 'Research']",MNC
+Data Scientist,79,60,8,3,9,5,9,3,4,"['AI/ML', 'Cloud Computing', 'Data Science']",['Research'],MNC
+Data Scientist,77,60,7,2,8,6,8,3,4,['Data Science'],"['Technology', 'Research']",Service
+Data Scientist,78,64,8,3,7,7,9,3,4,"['Data Science', 'Cloud Computing']",['Research'],Product
+Data Scientist,68,82,6,1,9,8,8,2,3,"['AI/ML', 'Data Science', 'Cloud Computing']","['Technology', 'Research']",Service
+Data Scientist,60,73,8,3,7,8,8,2,3,"['Cloud Computing', 'Data Science', 'AI/ML']",['Research'],Product
+Data Scientist,89,70,8,1,8,5,9,3,5,['AI/ML'],['Technology'],Product
+Data Scientist,73,77,7,3,8,7,8,3,3,"['Cloud Computing', 'AI/ML']",['Research'],Service
+Data Scientist,73,86,6,3,7,5,9,2,5,['Data Science'],['Technology'],Product
+Data Scientist,75,61,8,2,9,5,8,3,4,['Cloud Computing'],['Technology'],MNC
+Data Scientist,89,63,6,3,7,7,9,2,3,"['Cloud Computing', 'Data Science']","['Technology', 'Research']",Service
+Data Scientist,71,85,6,1,9,5,8,3,4,['Cloud Computing'],"['Research', 'Technology']",Product
+Data Scientist,75,84,6,2,9,8,9,3,3,"['Data Science', 'Cloud Computing']",['Technology'],Service
+Data Scientist,60,73,7,3,9,5,8,2,4,"['Data Science', 'Cloud Computing', 'AI/ML']",['Research'],Service
+Data Scientist,75,85,8,1,8,8,8,2,4,"['Data Science', 'Cloud Computing']","['Research', 'Technology']",Service
+Data Scientist,72,60,6,2,7,7,8,2,3,"['Cloud Computing', 'AI/ML']","['Research', 'Technology']",Service
+Data Scientist,83,88,7,2,7,8,8,3,3,"['Data Science', 'Cloud Computing']","['Technology', 'Research']",Product
+Data Scientist,77,83,7,1,7,8,9,3,4,"['Cloud Computing', 'Data Science', 'AI/ML']","['Technology', 'Research']",Product
+Data Scientist,69,68,6,2,8,7,8,3,4,"['AI/ML', 'Cloud Computing', 'Data Science']",['Research'],MNC
+Data Scientist,76,89,7,3,9,6,9,2,3,"['AI/ML', 'Cloud Computing']","['Research', 'Technology']",Product
+Data Scientist,74,73,8,2,9,7,9,2,3,['Data Science'],['Technology'],Service
+Data Scientist,81,86,6,1,8,5,8,2,4,"['AI/ML', 'Data Science']",['Technology'],MNC
+Data Scientist,78,80,7,3,7,7,9,3,4,['Cloud Computing'],"['Research', 'Technology']",MNC
+DevOps Engineer,68,60,9,1,8,7,9,4,3,"['DevOps', 'Cybersecurity', 'Cloud Computing']",['Technology'],Product
+DevOps Engineer,81,62,7,1,7,6,9,3,3,['Cybersecurity'],['Technology'],Product
+DevOps Engineer,68,68,7,1,8,5,8,2,2,"['Cloud Computing', 'Cybersecurity', 'DevOps']",['Technology'],Service
+DevOps Engineer,84,67,8,2,7,4,8,4,4,"['Cloud Computing', 'Cybersecurity', 'DevOps']",['Technology'],Product
+DevOps Engineer,79,60,7,1,7,6,8,3,2,"['Cloud Computing', 'Cybersecurity']",['Technology'],Product
+DevOps Engineer,74,71,9,2,8,6,8,4,4,['Cloud Computing'],['Technology'],Service
+DevOps Engineer,74,63,9,2,8,5,8,2,2,['DevOps'],['Technology'],MNC
+DevOps Engineer,87,61,8,1,8,6,9,3,2,['DevOps'],['Technology'],Product
+DevOps Engineer,79,75,8,2,8,5,8,2,4,['Cybersecurity'],['Technology'],Product
+DevOps Engineer,76,66,9,2,7,4,9,4,2,"['Cloud Computing', 'DevOps', 'Cybersecurity']",['Technology'],Service
+DevOps Engineer,88,59,9,2,7,6,9,4,3,"['DevOps', 'Cloud Computing', 'Cybersecurity']",['Technology'],Product
+DevOps Engineer,92,82,7,1,8,7,9,3,2,['Cybersecurity'],['Technology'],Product
+DevOps Engineer,87,60,9,1,8,4,9,4,3,['Cybersecurity'],['Technology'],Service
+DevOps Engineer,94,70,8,1,8,6,9,2,3,"['Cybersecurity', 'Cloud Computing', 'DevOps']",['Technology'],Product
+DevOps Engineer,73,75,8,2,8,6,9,3,4,"['DevOps', 'Cybersecurity', 'Cloud Computing']",['Technology'],Product
+DevOps Engineer,75,73,8,1,7,4,9,3,4,"['Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+DevOps Engineer,90,65,8,2,8,7,8,3,4,"['DevOps', 'Cybersecurity']",['Technology'],Product
+DevOps Engineer,89,69,8,2,8,5,8,4,4,['Cybersecurity'],['Technology'],Service
+DevOps Engineer,87,73,9,1,8,6,9,3,2,"['DevOps', 'Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+DevOps Engineer,70,59,8,2,7,7,9,3,3,"['DevOps', 'Cybersecurity']",['Technology'],MNC
+DevOps Engineer,87,75,9,1,7,4,9,2,4,['DevOps'],['Technology'],MNC
+DevOps Engineer,86,56,7,2,7,6,9,2,3,"['Cybersecurity', 'Cloud Computing']",['Technology'],MNC
+DevOps Engineer,74,77,8,1,7,6,8,2,4,"['Cloud Computing', 'DevOps', 'Cybersecurity']",['Technology'],MNC
+DevOps Engineer,83,70,9,2,8,6,8,3,4,"['Cybersecurity', 'Cloud Computing']",['Technology'],Service
+DevOps Engineer,90,60,9,2,8,4,9,3,3,"['Cybersecurity', 'DevOps', 'Cloud Computing']",['Technology'],MNC
+DevOps Engineer,90,74,8,2,8,4,9,4,2,['Cybersecurity'],['Technology'],Product
+DevOps Engineer,90,70,7,1,7,6,9,3,3,['Cloud Computing'],['Technology'],MNC
+DevOps Engineer,78,62,7,2,7,5,9,3,4,"['DevOps', 'Cloud Computing']",['Technology'],Product
+DevOps Engineer,91,70,8,2,8,5,9,2,2,"['Cybersecurity', 'Cloud Computing', 'DevOps']",['Technology'],MNC
+DevOps Engineer,92,72,7,1,7,7,8,3,3,"['DevOps', 'Cybersecurity']",['Technology'],MNC
+DevOps Engineer,66,74,7,2,7,6,8,4,3,['DevOps'],['Technology'],Service
+DevOps Engineer,86,83,8,2,7,4,9,4,3,"['Cybersecurity', 'Cloud Computing', 'DevOps']",['Technology'],MNC
+DevOps Engineer,81,80,9,2,8,7,9,3,4,"['Cybersecurity', 'Cloud Computing']",['Technology'],Product
+DevOps Engineer,82,70,8,2,8,6,9,3,4,['Cybersecurity'],['Technology'],Product
+DevOps Engineer,68,56,8,1,8,5,9,3,3,"['Cybersecurity', 'DevOps']",['Technology'],MNC
+DevOps Engineer,84,60,9,1,7,7,9,3,4,"['Cybersecurity', 'DevOps', 'Cloud Computing']",['Technology'],Product
+DevOps Engineer,71,84,9,2,7,5,8,2,4,['DevOps'],['Technology'],MNC
+DevOps Engineer,87,80,8,2,8,5,8,2,2,['DevOps'],['Technology'],Service
+DevOps Engineer,85,77,8,2,7,7,8,4,2,"['Cloud Computing', 'DevOps', 'Cybersecurity']",['Technology'],Service
+DevOps Engineer,76,59,8,2,7,4,8,4,3,"['DevOps', 'Cybersecurity']",['Technology'],MNC
+DevOps Engineer,87,63,8,2,8,5,9,4,4,"['DevOps', 'Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+DevOps Engineer,93,62,7,1,8,6,9,4,4,"['Cloud Computing', 'DevOps']",['Technology'],MNC
+DevOps Engineer,78,58,7,1,8,4,9,2,4,"['Cybersecurity', 'DevOps']",['Technology'],Product
+DevOps Engineer,81,69,8,2,7,5,9,4,3,"['Cybersecurity', 'DevOps']",['Technology'],Service
+DevOps Engineer,92,55,9,2,7,4,8,2,4,['DevOps'],['Technology'],Service
+DevOps Engineer,72,64,7,2,7,4,9,2,4,"['DevOps', 'Cloud Computing', 'Cybersecurity']",['Technology'],Service
+DevOps Engineer,81,80,7,2,7,6,9,4,2,['DevOps'],['Technology'],MNC
+DevOps Engineer,69,80,7,1,8,5,8,4,2,['Cloud Computing'],['Technology'],MNC
+DevOps Engineer,88,68,8,1,8,6,8,2,2,"['Cloud Computing', 'DevOps', 'Cybersecurity']",['Technology'],Product
+DevOps Engineer,76,67,8,2,8,4,9,3,4,['Cloud Computing'],['Technology'],Service
+DevOps Engineer,73,63,7,2,8,6,8,2,2,['Cloud Computing'],['Technology'],MNC
+DevOps Engineer,88,73,8,1,8,7,8,2,2,"['Cloud Computing', 'Cybersecurity', 'DevOps']",['Technology'],Service
+DevOps Engineer,83,68,9,2,8,6,8,3,4,"['Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+DevOps Engineer,87,68,7,2,8,5,8,4,4,['Cloud Computing'],['Technology'],Service
+DevOps Engineer,87,55,9,2,8,6,8,4,4,"['Cloud Computing', 'Cybersecurity', 'DevOps']",['Technology'],Product
+DevOps Engineer,74,66,8,1,7,6,9,3,4,"['Cloud Computing', 'DevOps']",['Technology'],MNC
+DevOps Engineer,75,71,8,2,7,5,8,4,2,['Cybersecurity'],['Technology'],Service
+DevOps Engineer,88,55,8,2,8,7,9,4,2,"['Cybersecurity', 'DevOps']",['Technology'],Service
+DevOps Engineer,80,80,8,1,8,5,9,4,3,"['Cloud Computing', 'Cybersecurity', 'DevOps']",['Technology'],Service
+DevOps Engineer,68,74,9,1,8,4,9,4,3,['Cybersecurity'],['Technology'],MNC
+DevOps Engineer,83,57,9,2,8,7,8,2,4,"['Cloud Computing', 'DevOps']",['Technology'],Product
+DevOps Engineer,80,76,7,2,7,7,8,3,2,"['Cloud Computing', 'DevOps', 'Cybersecurity']",['Technology'],Product
+DevOps Engineer,79,61,9,1,7,4,8,2,2,"['Cybersecurity', 'DevOps', 'Cloud Computing']",['Technology'],Product
+DevOps Engineer,74,69,7,1,8,7,8,2,2,['Cybersecurity'],['Technology'],MNC
+DevOps Engineer,89,65,7,1,8,5,9,4,2,"['DevOps', 'Cloud Computing']",['Technology'],MNC
+DevOps Engineer,77,67,9,2,7,6,9,2,2,"['Cybersecurity', 'DevOps']",['Technology'],MNC
+DevOps Engineer,75,73,7,2,7,4,8,3,4,"['DevOps', 'Cloud Computing', 'Cybersecurity']",['Technology'],Service
+DevOps Engineer,91,73,9,1,7,6,9,2,3,"['Cloud Computing', 'Cybersecurity', 'DevOps']",['Technology'],Product
+DevOps Engineer,76,75,9,1,7,4,8,4,2,['Cloud Computing'],['Technology'],MNC
+DevOps Engineer,88,62,7,1,8,6,9,2,2,"['Cloud Computing', 'DevOps', 'Cybersecurity']",['Technology'],Service
+DevOps Engineer,77,65,9,1,8,7,9,3,3,"['DevOps', 'Cybersecurity', 'Cloud Computing']",['Technology'],Product
+DevOps Engineer,74,59,7,2,7,7,8,4,2,"['Cybersecurity', 'DevOps']",['Technology'],Service
+DevOps Engineer,89,56,8,1,8,6,9,3,2,['DevOps'],['Technology'],Service
+DevOps Engineer,73,78,7,1,7,4,8,3,3,"['DevOps', 'Cybersecurity', 'Cloud Computing']",['Technology'],Product
+DevOps Engineer,73,56,7,1,8,5,9,2,4,['Cybersecurity'],['Technology'],Product
+DevOps Engineer,68,79,9,2,8,6,8,3,4,['Cybersecurity'],['Technology'],MNC
+DevOps Engineer,89,70,9,1,7,6,8,2,3,"['DevOps', 'Cybersecurity', 'Cloud Computing']",['Technology'],Product
+DevOps Engineer,68,66,8,2,8,7,9,2,4,"['Cybersecurity', 'Cloud Computing', 'DevOps']",['Technology'],Product
+DevOps Engineer,81,72,8,2,7,4,9,3,3,['DevOps'],['Technology'],MNC
+DevOps Engineer,92,74,9,2,8,4,9,4,2,['DevOps'],['Technology'],Product
+DevOps Engineer,79,65,8,1,7,7,8,3,2,"['Cybersecurity', 'DevOps', 'Cloud Computing']",['Technology'],Product
+DevOps Engineer,90,77,7,1,8,5,9,2,3,['Cybersecurity'],['Technology'],Service
+DevOps Engineer,85,56,8,1,8,6,9,3,2,"['Cloud Computing', 'DevOps']",['Technology'],Service
+DevOps Engineer,68,71,9,2,8,4,8,4,2,['Cloud Computing'],['Technology'],Product
+DevOps Engineer,87,72,8,1,7,7,8,2,4,['Cloud Computing'],['Technology'],Product
+DevOps Engineer,68,66,9,1,8,5,8,3,4,"['Cybersecurity', 'Cloud Computing']",['Technology'],Product
+DevOps Engineer,85,63,9,1,8,7,8,4,4,['Cloud Computing'],['Technology'],Product
+DevOps Engineer,89,55,8,2,8,7,9,4,4,"['Cloud Computing', 'DevOps', 'Cybersecurity']",['Technology'],Service
+DevOps Engineer,90,76,7,2,8,7,8,4,4,['Cybersecurity'],['Technology'],Service
+DevOps Engineer,65,60,7,1,8,6,9,3,4,['Cloud Computing'],['Technology'],MNC
+DevOps Engineer,81,72,7,2,7,6,9,2,3,['DevOps'],['Technology'],Service
+DevOps Engineer,88,77,8,2,8,7,9,2,3,"['DevOps', 'Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+DevOps Engineer,78,60,8,2,8,5,8,2,3,"['Cybersecurity', 'Cloud Computing', 'DevOps']",['Technology'],Product
+DevOps Engineer,88,67,9,1,8,7,9,3,2,['Cybersecurity'],['Technology'],Service
+DevOps Engineer,79,57,8,2,8,5,9,3,4,"['Cybersecurity', 'DevOps']",['Technology'],MNC
+DevOps Engineer,78,55,8,2,7,7,8,2,3,"['Cloud Computing', 'DevOps']",['Technology'],Service
+DevOps Engineer,94,80,8,1,7,4,9,3,2,"['DevOps', 'Cloud Computing', 'Cybersecurity']",['Technology'],Product
+DevOps Engineer,85,69,7,2,7,7,9,3,3,"['Cybersecurity', 'Cloud Computing', 'DevOps']",['Technology'],Service
+DevOps Engineer,76,83,8,2,8,6,9,3,2,['Cybersecurity'],['Technology'],Product
+DevOps Engineer,90,55,9,2,8,7,8,3,4,['Cybersecurity'],['Technology'],Service
+Cybersecurity Analyst,65,66,6,2,6,7,8,2,5,"['Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,72,51,8,4,6,7,8,2,3,"['Cloud Computing', 'Cybersecurity', 'Blockchain']",['Technology'],MNC
+Cybersecurity Analyst,89,53,6,4,8,6,8,3,5,"['Cybersecurity', 'Blockchain']",['Technology'],MNC
+Cybersecurity Analyst,62,67,6,2,7,7,9,2,5,"['Cloud Computing', 'Cybersecurity']",['Technology'],Service
+Cybersecurity Analyst,73,74,6,3,6,5,8,3,5,"['Cybersecurity', 'Cloud Computing']",['Technology'],Service
+Cybersecurity Analyst,69,79,8,4,7,5,8,2,5,"['Blockchain', 'Cybersecurity']",['Technology'],Service
+Cybersecurity Analyst,83,70,6,2,6,5,9,2,4,['Cybersecurity'],['Technology'],MNC
+Cybersecurity Analyst,77,62,8,2,8,7,9,3,3,"['Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,79,61,7,2,8,5,9,3,3,['Cloud Computing'],['Technology'],Service
+Cybersecurity Analyst,62,59,8,2,8,7,9,3,3,"['Cybersecurity', 'Cloud Computing', 'Blockchain']",['Technology'],MNC
+Cybersecurity Analyst,79,67,8,4,7,5,9,2,4,"['Cybersecurity', 'Blockchain']",['Technology'],MNC
+Cybersecurity Analyst,80,78,7,3,7,8,8,2,4,"['Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,79,75,7,2,7,6,9,2,4,"['Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,81,55,8,4,6,6,9,2,5,['Cloud Computing'],['Technology'],MNC
+Cybersecurity Analyst,67,67,7,2,7,8,9,2,5,"['Cybersecurity', 'Cloud Computing', 'Blockchain']",['Technology'],MNC
+Cybersecurity Analyst,69,65,7,3,8,5,8,3,4,"['Cloud Computing', 'Cybersecurity', 'Blockchain']",['Technology'],Service
+Cybersecurity Analyst,85,76,8,2,6,5,8,2,5,"['Cloud Computing', 'Cybersecurity']",['Technology'],Service
+Cybersecurity Analyst,87,78,7,2,7,6,9,2,5,"['Cloud Computing', 'Blockchain', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,81,55,8,3,7,8,9,2,4,"['Cybersecurity', 'Cloud Computing']",['Technology'],Service
+Cybersecurity Analyst,61,76,6,2,8,5,9,3,3,['Cloud Computing'],['Technology'],MNC
+Cybersecurity Analyst,74,57,7,4,7,6,9,3,4,['Cybersecurity'],['Technology'],Service
+Cybersecurity Analyst,82,70,8,4,6,7,9,2,5,"['Cybersecurity', 'Cloud Computing']",['Technology'],Service
+Cybersecurity Analyst,68,50,8,4,7,8,9,2,5,"['Cloud Computing', 'Cybersecurity', 'Blockchain']",['Technology'],Service
+Cybersecurity Analyst,82,73,6,4,6,8,9,3,4,"['Cybersecurity', 'Blockchain']",['Technology'],MNC
+Cybersecurity Analyst,85,61,6,2,7,5,9,3,4,['Blockchain'],['Technology'],Service
+Cybersecurity Analyst,72,60,6,4,8,8,8,3,5,['Cybersecurity'],['Technology'],MNC
+Cybersecurity Analyst,72,50,8,2,8,7,9,2,3,"['Cybersecurity', 'Cloud Computing']",['Technology'],Service
+Cybersecurity Analyst,73,53,7,4,8,7,9,3,3,"['Cloud Computing', 'Blockchain', 'Cybersecurity']",['Technology'],Service
+Cybersecurity Analyst,71,65,8,2,8,6,8,2,4,['Cloud Computing'],['Technology'],Service
+Cybersecurity Analyst,86,68,6,2,7,5,8,2,5,"['Blockchain', 'Cloud Computing', 'Cybersecurity']",['Technology'],Service
+Cybersecurity Analyst,66,50,6,4,7,7,8,2,4,"['Blockchain', 'Cybersecurity', 'Cloud Computing']",['Technology'],MNC
+Cybersecurity Analyst,74,79,7,3,8,6,9,2,3,"['Blockchain', 'Cybersecurity', 'Cloud Computing']",['Technology'],MNC
+Cybersecurity Analyst,69,78,7,3,6,5,8,3,5,"['Blockchain', 'Cloud Computing']",['Technology'],Service
+Cybersecurity Analyst,81,71,6,4,7,6,9,3,4,"['Blockchain', 'Cloud Computing']",['Technology'],Service
+Cybersecurity Analyst,72,70,7,3,7,8,8,3,3,['Cloud Computing'],['Technology'],MNC
+Cybersecurity Analyst,75,73,7,2,7,7,9,2,4,['Cloud Computing'],['Technology'],Service
+Cybersecurity Analyst,70,64,6,4,8,5,9,3,4,['Cybersecurity'],['Technology'],MNC
+Cybersecurity Analyst,81,75,7,3,6,5,9,3,4,"['Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,74,50,6,2,6,6,8,2,4,"['Cloud Computing', 'Blockchain']",['Technology'],MNC
+Cybersecurity Analyst,69,76,8,4,6,8,8,2,5,"['Cybersecurity', 'Blockchain']",['Technology'],Service
+Cybersecurity Analyst,62,76,7,4,8,6,9,2,4,['Cloud Computing'],['Technology'],MNC
+Cybersecurity Analyst,69,64,7,4,7,7,8,3,5,"['Cybersecurity', 'Blockchain']",['Technology'],Service
+Cybersecurity Analyst,62,75,8,3,8,8,9,3,5,['Cybersecurity'],['Technology'],Service
+Cybersecurity Analyst,69,54,7,2,8,8,8,2,5,['Blockchain'],['Technology'],Service
+Cybersecurity Analyst,84,53,8,2,6,6,8,2,5,"['Blockchain', 'Cybersecurity', 'Cloud Computing']",['Technology'],Service
+Cybersecurity Analyst,66,68,7,3,6,5,8,3,5,"['Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,82,56,6,2,7,7,8,2,3,"['Blockchain', 'Cybersecurity', 'Cloud Computing']",['Technology'],MNC
+Cybersecurity Analyst,75,53,7,3,8,6,8,3,3,"['Blockchain', 'Cloud Computing', 'Cybersecurity']",['Technology'],Service
+Cybersecurity Analyst,70,61,8,4,7,7,9,2,5,['Blockchain'],['Technology'],MNC
+Cybersecurity Analyst,71,51,8,3,6,8,8,3,3,['Cloud Computing'],['Technology'],Service
+Cybersecurity Analyst,66,76,6,3,6,6,8,3,4,"['Cybersecurity', 'Blockchain']",['Technology'],MNC
+Cybersecurity Analyst,68,78,7,4,7,7,8,2,3,"['Cloud Computing', 'Cybersecurity', 'Blockchain']",['Technology'],Service
+Cybersecurity Analyst,71,61,8,4,8,7,8,2,3,"['Cloud Computing', 'Blockchain', 'Cybersecurity']",['Technology'],Service
+Cybersecurity Analyst,79,51,7,4,8,8,8,3,4,"['Blockchain', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,87,66,8,3,8,6,8,2,4,"['Cloud Computing', 'Cybersecurity', 'Blockchain']",['Technology'],Service
+Cybersecurity Analyst,69,50,6,2,7,7,9,2,4,"['Cloud Computing', 'Cybersecurity']",['Technology'],Service
+Cybersecurity Analyst,71,62,8,2,6,7,8,3,3,"['Cybersecurity', 'Cloud Computing']",['Technology'],Service
+Cybersecurity Analyst,75,54,6,4,6,5,9,3,3,"['Cloud Computing', 'Blockchain']",['Technology'],Service
+Cybersecurity Analyst,80,62,7,4,6,7,9,2,4,"['Cloud Computing', 'Blockchain', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,73,73,6,3,8,5,8,2,4,"['Cloud Computing', 'Blockchain']",['Technology'],MNC
+Cybersecurity Analyst,68,55,8,3,8,7,9,3,5,"['Blockchain', 'Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,61,78,8,3,7,6,8,3,5,"['Cloud Computing', 'Cybersecurity']",['Technology'],Service
+Cybersecurity Analyst,83,76,6,4,7,8,8,2,4,"['Cloud Computing', 'Blockchain', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,66,61,8,3,7,7,9,3,4,['Cybersecurity'],['Technology'],Service
+Cybersecurity Analyst,69,64,7,2,8,5,8,3,3,"['Cloud Computing', 'Blockchain']",['Technology'],Service
+Cybersecurity Analyst,70,66,8,3,8,6,9,3,5,['Cybersecurity'],['Technology'],MNC
+Cybersecurity Analyst,89,74,7,2,7,6,9,3,4,"['Cloud Computing', 'Cybersecurity', 'Blockchain']",['Technology'],Service
+Cybersecurity Analyst,88,51,8,4,8,6,8,2,3,['Cybersecurity'],['Technology'],Service
+Cybersecurity Analyst,71,61,6,2,7,7,9,3,3,['Cloud Computing'],['Technology'],MNC
+Cybersecurity Analyst,85,73,8,4,7,6,8,2,3,['Cloud Computing'],['Technology'],Service
+Cybersecurity Analyst,70,66,6,3,8,8,8,2,3,['Cloud Computing'],['Technology'],MNC
+Cybersecurity Analyst,84,65,8,2,7,8,8,3,5,['Cloud Computing'],['Technology'],MNC
+Cybersecurity Analyst,83,76,6,4,7,8,8,3,5,['Cybersecurity'],['Technology'],MNC
+Cybersecurity Analyst,72,73,7,2,7,8,8,2,3,['Cybersecurity'],['Technology'],MNC
+Cybersecurity Analyst,79,65,8,3,8,8,8,3,3,"['Cloud Computing', 'Cybersecurity', 'Blockchain']",['Technology'],Service
+Cybersecurity Analyst,78,55,7,3,6,5,9,2,3,['Cloud Computing'],['Technology'],Service
+Cybersecurity Analyst,60,62,7,4,8,8,8,3,3,['Blockchain'],['Technology'],Service
+Cybersecurity Analyst,82,71,6,2,7,7,9,3,5,"['Blockchain', 'Cybersecurity', 'Cloud Computing']",['Technology'],Service
+Cybersecurity Analyst,77,77,8,2,8,5,9,2,4,"['Cybersecurity', 'Cloud Computing', 'Blockchain']",['Technology'],MNC
+Cybersecurity Analyst,88,74,7,4,6,6,9,2,3,"['Cloud Computing', 'Blockchain']",['Technology'],MNC
+Cybersecurity Analyst,80,68,7,4,8,5,9,3,3,['Cybersecurity'],['Technology'],Service
+Cybersecurity Analyst,76,63,7,4,6,8,8,2,5,['Blockchain'],['Technology'],MNC
+Cybersecurity Analyst,72,65,7,2,6,8,8,3,4,"['Blockchain', 'Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,79,67,8,2,7,7,8,3,4,['Cloud Computing'],['Technology'],MNC
+Cybersecurity Analyst,85,54,6,4,6,5,8,2,3,"['Cybersecurity', 'Cloud Computing']",['Technology'],Service
+Cybersecurity Analyst,84,53,8,3,8,6,9,3,4,"['Cybersecurity', 'Cloud Computing', 'Blockchain']",['Technology'],MNC
+Cybersecurity Analyst,87,59,8,4,6,6,8,2,3,"['Cybersecurity', 'Cloud Computing', 'Blockchain']",['Technology'],Service
+Cybersecurity Analyst,85,70,8,4,8,6,8,2,4,"['Cybersecurity', 'Blockchain']",['Technology'],MNC
+Cybersecurity Analyst,74,65,7,3,6,7,8,2,3,"['Cybersecurity', 'Blockchain']",['Technology'],Service
+Cybersecurity Analyst,83,64,6,4,6,8,8,2,3,"['Cybersecurity', 'Cloud Computing']",['Technology'],Service
+Cybersecurity Analyst,74,64,7,4,7,7,9,3,3,['Cloud Computing'],['Technology'],Service
+Cybersecurity Analyst,71,60,6,3,8,7,8,2,5,"['Blockchain', 'Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,69,79,8,2,8,6,8,3,4,['Cybersecurity'],['Technology'],Service
+Cybersecurity Analyst,79,53,8,2,6,8,8,3,4,['Cybersecurity'],['Technology'],Service
+Cybersecurity Analyst,76,75,7,4,6,5,8,3,4,"['Blockchain', 'Cloud Computing']",['Technology'],MNC
+Cybersecurity Analyst,63,62,8,2,8,7,8,3,4,"['Cybersecurity', 'Blockchain']",['Technology'],MNC
+Cybersecurity Analyst,77,70,7,3,7,5,8,3,5,"['Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,70,54,8,4,8,5,9,2,3,"['Cybersecurity', 'Cloud Computing']",['Technology'],MNC
+Cybersecurity Analyst,62,72,6,2,6,8,9,2,3,"['Cloud Computing', 'Cybersecurity']",['Technology'],MNC
+Cybersecurity Analyst,79,70,6,3,6,8,8,2,3,"['Cybersecurity', 'Cloud Computing', 'Blockchain']",['Technology'],Service
+Mobile Developer,71,70,6,1,9,6,8,2,2,['Web Development'],['Technology'],Startup
+Mobile Developer,77,78,6,2,8,7,9,1,2,['Web Development'],['Technology'],Product
+Mobile Developer,73,58,8,2,8,5,7,2,3,"['Game Development', 'Web Development', 'Mobile Development']",['Technology'],Product
+Mobile Developer,87,73,6,2,9,6,8,1,2,"['Web Development', 'Mobile Development']",['Technology'],Product
+Mobile Developer,72,62,6,1,9,5,7,1,3,['Game Development'],['Technology'],Service
+Mobile Developer,73,77,7,2,8,7,7,1,2,['Web Development'],['Technology'],Service
+Mobile Developer,82,54,6,3,8,4,7,1,4,"['Mobile Development', 'Game Development', 'Web Development']",['Technology'],Startup
+Mobile Developer,86,51,7,3,9,7,9,1,4,['Web Development'],['Technology'],Startup
+Mobile Developer,76,67,7,2,8,5,8,1,3,"['Web Development', 'Mobile Development']",['Technology'],Product
+Mobile Developer,83,66,8,3,9,5,7,1,2,['Mobile Development'],['Technology'],Service
+Mobile Developer,84,55,8,2,8,4,8,2,4,['Web Development'],['Technology'],Product
+Mobile Developer,97,65,8,2,9,6,8,2,3,['Game Development'],['Technology'],Startup
+Mobile Developer,78,68,6,2,8,4,8,1,4,"['Game Development', 'Web Development']",['Technology'],Product
+Mobile Developer,75,52,9,2,8,7,9,2,3,"['Web Development', 'Mobile Development', 'Game Development']",['Technology'],Product
+Mobile Developer,78,57,6,3,9,6,9,1,2,"['Mobile Development', 'Game Development']",['Technology'],Service
+Mobile Developer,90,74,8,2,9,5,7,2,4,['Mobile Development'],['Technology'],Product
+Mobile Developer,75,71,9,3,8,5,9,1,3,['Game Development'],['Technology'],Service
+Mobile Developer,93,77,9,2,8,6,9,1,2,"['Game Development', 'Web Development', 'Mobile Development']",['Technology'],Product
+Mobile Developer,94,78,9,1,9,7,9,2,3,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Service
+Mobile Developer,86,56,9,2,8,6,8,1,2,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Service
+Mobile Developer,73,65,9,1,8,4,8,1,4,['Web Development'],['Technology'],Service
+Mobile Developer,86,58,8,1,8,5,9,2,3,"['Game Development', 'Mobile Development']",['Technology'],Product
+Mobile Developer,71,64,6,1,9,7,9,2,3,['Web Development'],['Technology'],Product
+Mobile Developer,90,60,9,1,9,5,8,1,4,"['Web Development', 'Mobile Development', 'Game Development']",['Technology'],Startup
+Mobile Developer,75,58,7,3,9,5,7,2,3,"['Game Development', 'Web Development']",['Technology'],Product
+Mobile Developer,93,54,6,3,9,4,7,1,3,['Web Development'],['Technology'],Product
+Mobile Developer,98,54,6,1,9,5,8,2,2,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Startup
+Mobile Developer,70,61,8,1,8,6,7,2,4,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Service
+Mobile Developer,73,57,7,1,8,5,9,1,4,"['Mobile Development', 'Game Development']",['Technology'],Service
+Mobile Developer,90,58,7,1,9,7,8,1,3,"['Web Development', 'Mobile Development']",['Technology'],Startup
+Mobile Developer,76,54,9,3,9,7,9,2,4,"['Mobile Development', 'Web Development', 'Game Development']",['Technology'],Startup
+Mobile Developer,78,69,6,3,9,5,9,2,3,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Service
+Mobile Developer,94,73,6,1,8,5,7,1,2,['Game Development'],['Technology'],Service
+Mobile Developer,94,50,6,3,8,5,8,2,2,"['Game Development', 'Web Development']",['Technology'],Startup
+Mobile Developer,92,70,9,2,9,4,7,1,3,"['Web Development', 'Game Development']",['Technology'],Product
+Mobile Developer,95,62,8,1,8,4,8,2,3,"['Game Development', 'Mobile Development']",['Technology'],Startup
+Mobile Developer,84,74,9,2,9,7,7,2,4,"['Mobile Development', 'Game Development', 'Web Development']",['Technology'],Product
+Mobile Developer,87,51,9,3,8,5,9,2,3,"['Mobile Development', 'Web Development']",['Technology'],Service
+Mobile Developer,90,77,7,2,8,4,8,1,3,"['Mobile Development', 'Game Development']",['Technology'],Product
+Mobile Developer,76,67,6,1,9,7,8,2,4,['Mobile Development'],['Technology'],Service
+Mobile Developer,92,63,7,3,9,6,7,2,3,"['Game Development', 'Web Development', 'Mobile Development']",['Technology'],Startup
+Mobile Developer,94,68,9,1,8,7,7,2,2,"['Game Development', 'Web Development', 'Mobile Development']",['Technology'],Startup
+Mobile Developer,76,69,9,2,9,6,7,2,4,['Mobile Development'],['Technology'],Product
+Mobile Developer,94,76,8,1,9,7,8,2,3,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Startup
+Mobile Developer,75,76,7,2,9,7,7,2,3,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Service
+Mobile Developer,93,57,7,2,8,5,8,1,3,"['Mobile Development', 'Game Development', 'Web Development']",['Technology'],Product
+Mobile Developer,87,67,7,1,9,6,8,2,3,"['Game Development', 'Web Development', 'Mobile Development']",['Technology'],Service
+Mobile Developer,91,55,9,3,8,4,9,2,4,"['Web Development', 'Game Development']",['Technology'],Product
+Mobile Developer,83,53,6,2,9,7,9,1,4,['Web Development'],['Technology'],Startup
+Mobile Developer,94,67,9,1,8,6,8,2,2,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Service
+Mobile Developer,78,63,6,3,9,7,9,2,4,"['Game Development', 'Mobile Development']",['Technology'],Startup
+Mobile Developer,80,54,7,1,9,4,9,2,4,['Game Development'],['Technology'],Startup
+Mobile Developer,83,72,9,1,8,6,8,1,2,"['Web Development', 'Game Development']",['Technology'],Service
+Mobile Developer,87,75,6,2,9,7,9,1,4,"['Web Development', 'Game Development']",['Technology'],Product
+Mobile Developer,97,74,6,3,8,6,8,1,2,['Game Development'],['Technology'],Product
+Mobile Developer,93,63,9,1,8,7,8,1,2,['Web Development'],['Technology'],Product
+Mobile Developer,88,77,9,2,9,6,7,2,3,"['Game Development', 'Web Development', 'Mobile Development']",['Technology'],Service
+Mobile Developer,84,59,7,2,8,4,8,2,4,"['Mobile Development', 'Web Development', 'Game Development']",['Technology'],Product
+Mobile Developer,99,68,8,1,9,6,9,1,2,"['Game Development', 'Web Development']",['Technology'],Startup
+Mobile Developer,81,63,8,3,9,7,9,2,3,"['Mobile Development', 'Web Development', 'Game Development']",['Technology'],Service
+Mobile Developer,91,68,7,2,8,4,9,1,4,"['Mobile Development', 'Web Development', 'Game Development']",['Technology'],Service
+Mobile Developer,71,73,6,1,9,4,9,2,2,['Web Development'],['Technology'],Service
+Mobile Developer,79,57,6,1,9,5,8,1,2,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Service
+Mobile Developer,99,78,7,3,9,7,9,2,2,['Game Development'],['Technology'],Service
+Mobile Developer,91,61,9,3,8,5,7,1,4,"['Mobile Development', 'Game Development', 'Web Development']",['Technology'],Service
+Mobile Developer,95,65,7,2,8,4,8,1,4,['Game Development'],['Technology'],Startup
+Mobile Developer,89,73,6,1,9,7,8,2,3,['Mobile Development'],['Technology'],Service
+Mobile Developer,82,76,6,3,9,6,8,2,4,['Game Development'],['Technology'],Startup
+Mobile Developer,95,75,8,2,8,4,9,2,4,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Service
+Mobile Developer,79,75,6,1,8,4,8,1,2,['Game Development'],['Technology'],Startup
+Mobile Developer,70,53,6,2,8,7,7,1,2,['Mobile Development'],['Technology'],Product
+Mobile Developer,98,66,8,2,8,7,7,1,4,"['Web Development', 'Mobile Development']",['Technology'],Product
+Mobile Developer,81,75,7,3,8,7,7,2,4,['Web Development'],['Technology'],Product
+Mobile Developer,72,58,9,1,8,4,9,2,3,"['Web Development', 'Mobile Development', 'Game Development']",['Technology'],Startup
+Mobile Developer,89,77,6,3,9,6,8,2,4,"['Mobile Development', 'Game Development']",['Technology'],Startup
+Mobile Developer,71,59,6,2,8,4,9,2,4,['Game Development'],['Technology'],Startup
+Mobile Developer,83,63,8,3,9,5,9,2,2,"['Mobile Development', 'Game Development', 'Web Development']",['Technology'],Startup
+Mobile Developer,70,54,7,1,8,5,7,2,2,['Mobile Development'],['Technology'],Service
+Mobile Developer,85,66,7,3,9,7,7,2,4,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Startup
+Mobile Developer,70,69,8,2,8,7,7,1,4,['Web Development'],['Technology'],Startup
+Mobile Developer,85,56,9,2,8,6,9,2,2,['Mobile Development'],['Technology'],Service
+Mobile Developer,83,65,8,1,9,5,8,1,3,"['Web Development', 'Mobile Development', 'Game Development']",['Technology'],Service
+Mobile Developer,83,59,9,1,9,4,7,1,2,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Startup
+Mobile Developer,90,69,8,3,8,4,8,2,2,"['Web Development', 'Mobile Development', 'Game Development']",['Technology'],Startup
+Mobile Developer,97,66,8,2,8,6,8,1,4,"['Web Development', 'Mobile Development', 'Game Development']",['Technology'],Service
+Mobile Developer,97,66,9,1,9,5,9,1,4,"['Game Development', 'Web Development', 'Mobile Development']",['Technology'],Startup
+Mobile Developer,74,55,6,1,8,7,7,2,2,['Mobile Development'],['Technology'],Service
+Mobile Developer,84,53,7,1,8,4,7,2,4,['Mobile Development'],['Technology'],Startup
+Mobile Developer,71,75,7,2,8,5,9,2,4,"['Web Development', 'Game Development']",['Technology'],Product
+Mobile Developer,86,53,8,1,9,7,7,2,3,"['Mobile Development', 'Game Development', 'Web Development']",['Technology'],Startup
+Mobile Developer,73,67,6,3,8,4,7,1,4,['Web Development'],['Technology'],Product
+Mobile Developer,96,63,7,2,8,6,9,1,4,['Mobile Development'],['Technology'],Service
+Mobile Developer,88,77,6,3,9,7,7,1,4,"['Game Development', 'Mobile Development']",['Technology'],Startup
+Mobile Developer,93,52,7,3,9,6,8,2,2,['Game Development'],['Technology'],Service
+Mobile Developer,71,75,9,1,9,5,8,1,3,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Service
+Mobile Developer,74,67,7,3,8,7,8,1,2,['Mobile Development'],['Technology'],Startup
+Mobile Developer,72,54,7,1,8,5,9,2,3,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Service
+Mobile Developer,72,73,9,1,8,7,8,1,4,['Game Development'],['Technology'],Product
+Mobile Developer,89,73,6,2,8,7,8,2,3,['Web Development'],['Technology'],Product
+Mobile Developer,75,78,7,3,8,4,8,2,4,['Web Development'],['Technology'],Startup
+Game Developer,81,50,9,1,8,5,9,1,4,['Web Development'],"['Creative', 'Technology']",Product
+Game Developer,80,79,9,3,9,4,7,1,4,"['Game Development', 'Web Development', 'Mobile Development']","['Technology', 'Creative']",Startup
+Game Developer,82,66,10,3,9,7,8,2,4,['Game Development'],"['Technology', 'Creative']",Product
+Game Developer,78,63,9,2,8,6,8,1,2,"['Game Development', 'Mobile Development', 'Web Development']","['Technology', 'Creative']",Startup
+Game Developer,87,79,10,1,8,7,8,2,2,['Web Development'],['Creative'],Product
+Game Developer,78,77,9,1,8,5,8,1,2,"['Game Development', 'Web Development']",['Technology'],Product
+Game Developer,75,55,7,2,9,6,9,2,2,"['Game Development', 'Mobile Development']",['Creative'],Startup
+Game Developer,90,72,9,3,9,5,8,2,4,['Game Development'],['Technology'],Startup
+Game Developer,82,60,10,3,8,5,7,2,4,['Game Development'],"['Technology', 'Creative']",Startup
+Game Developer,89,66,8,1,9,4,8,2,4,['Web Development'],['Creative'],Startup
+Game Developer,78,75,10,2,8,7,8,1,2,"['Web Development', 'Mobile Development']","['Creative', 'Technology']",Startup
+Game Developer,75,75,8,1,9,7,7,1,2,['Mobile Development'],"['Technology', 'Creative']",Product
+Game Developer,79,70,9,2,8,5,9,1,3,"['Game Development', 'Mobile Development', 'Web Development']","['Technology', 'Creative']",Product
+Game Developer,96,76,8,2,9,5,9,1,2,"['Mobile Development', 'Web Development']","['Creative', 'Technology']",Startup
+Game Developer,87,65,10,3,8,4,8,1,3,"['Web Development', 'Mobile Development', 'Game Development']","['Creative', 'Technology']",Product
+Game Developer,85,57,10,2,8,7,7,2,3,"['Mobile Development', 'Web Development', 'Game Development']",['Creative'],Product
+Game Developer,94,64,10,1,8,7,8,1,3,"['Web Development', 'Mobile Development']",['Technology'],Startup
+Game Developer,75,78,10,3,9,4,8,2,3,"['Web Development', 'Mobile Development']",['Technology'],Startup
+Game Developer,98,76,9,2,9,4,8,1,4,"['Mobile Development', 'Web Development']",['Technology'],Startup
+Game Developer,95,62,10,1,9,6,8,1,3,"['Mobile Development', 'Web Development', 'Game Development']","['Technology', 'Creative']",Product
+Game Developer,75,62,8,2,9,7,8,2,3,"['Mobile Development', 'Game Development']","['Creative', 'Technology']",Startup
+Game Developer,88,79,8,1,9,5,7,2,4,"['Mobile Development', 'Web Development']","['Technology', 'Creative']",Startup
+Game Developer,81,75,9,2,9,5,8,1,3,"['Mobile Development', 'Game Development', 'Web Development']","['Technology', 'Creative']",Product
+Game Developer,97,78,9,1,9,4,7,2,2,"['Web Development', 'Game Development', 'Mobile Development']","['Creative', 'Technology']",Startup
+Game Developer,99,75,9,2,9,6,7,1,3,"['Mobile Development', 'Web Development']",['Technology'],Product
+Game Developer,95,61,8,2,9,5,8,1,3,['Web Development'],"['Technology', 'Creative']",Startup
+Game Developer,80,62,10,1,9,6,7,1,4,"['Game Development', 'Web Development', 'Mobile Development']",['Creative'],Product
+Game Developer,85,57,9,3,9,6,8,1,4,['Mobile Development'],['Technology'],Product
+Game Developer,93,57,8,3,8,4,7,2,2,['Mobile Development'],['Creative'],Product
+Game Developer,94,67,10,3,9,6,7,2,3,"['Web Development', 'Mobile Development', 'Game Development']","['Technology', 'Creative']",Product
+Game Developer,75,53,7,3,9,5,7,1,3,['Mobile Development'],"['Creative', 'Technology']",Startup
+Game Developer,82,75,9,1,8,5,9,1,4,"['Web Development', 'Game Development', 'Mobile Development']","['Technology', 'Creative']",Startup
+Game Developer,80,68,7,1,8,7,7,1,4,"['Game Development', 'Web Development']","['Creative', 'Technology']",Product
+Game Developer,79,58,8,1,8,6,8,1,4,"['Game Development', 'Mobile Development', 'Web Development']",['Creative'],Product
+Game Developer,87,61,7,2,8,5,8,2,2,"['Web Development', 'Mobile Development', 'Game Development']",['Creative'],Product
+Game Developer,96,79,8,2,8,5,9,2,3,"['Mobile Development', 'Web Development']",['Technology'],Product
+Game Developer,97,54,8,3,8,5,7,1,4,"['Game Development', 'Web Development', 'Mobile Development']","['Creative', 'Technology']",Startup
+Game Developer,98,51,8,1,8,5,7,1,3,['Game Development'],"['Creative', 'Technology']",Product
+Game Developer,91,73,8,3,8,6,8,1,2,"['Web Development', 'Mobile Development', 'Game Development']","['Technology', 'Creative']",Startup
+Game Developer,85,50,10,2,9,5,8,1,2,['Web Development'],['Technology'],Product
+Game Developer,92,72,7,3,8,5,9,2,2,"['Mobile Development', 'Game Development']",['Creative'],Product
+Game Developer,83,61,9,2,8,6,7,2,4,['Game Development'],['Creative'],Startup
+Game Developer,93,64,10,3,9,5,9,2,4,['Game Development'],['Technology'],Product
+Game Developer,94,50,10,3,9,4,7,2,4,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Startup
+Game Developer,86,52,7,1,8,4,8,1,2,"['Mobile Development', 'Game Development', 'Web Development']","['Technology', 'Creative']",Startup
+Game Developer,85,56,9,2,9,4,7,1,4,"['Web Development', 'Game Development']",['Technology'],Product
+Game Developer,93,55,10,3,9,7,8,1,3,"['Web Development', 'Mobile Development']",['Technology'],Product
+Game Developer,86,70,8,1,9,7,8,1,3,"['Mobile Development', 'Web Development', 'Game Development']","['Technology', 'Creative']",Startup
+Game Developer,89,51,8,1,9,5,9,2,3,['Game Development'],"['Technology', 'Creative']",Startup
+Game Developer,88,56,7,2,8,5,8,2,2,"['Web Development', 'Mobile Development']",['Technology'],Product
+Game Developer,88,69,8,3,8,7,8,2,2,['Game Development'],['Technology'],Product
+Game Developer,99,79,9,2,9,5,8,2,2,['Game Development'],['Technology'],Startup
+Game Developer,99,57,7,1,9,6,9,1,3,"['Game Development', 'Web Development']","['Technology', 'Creative']",Product
+Game Developer,82,78,8,2,9,7,7,2,2,"['Web Development', 'Mobile Development', 'Game Development']",['Technology'],Product
+Game Developer,97,78,10,2,8,5,9,1,2,"['Game Development', 'Web Development']","['Creative', 'Technology']",Startup
+Game Developer,75,62,9,2,8,6,8,1,4,['Mobile Development'],['Technology'],Product
+Game Developer,98,65,8,3,8,5,7,2,3,"['Web Development', 'Game Development']",['Creative'],Startup
+Game Developer,84,70,8,1,9,5,8,1,3,['Mobile Development'],"['Creative', 'Technology']",Startup
+Game Developer,81,72,8,1,8,5,9,1,3,['Game Development'],"['Technology', 'Creative']",Product
+Game Developer,89,79,9,1,9,4,7,1,4,"['Mobile Development', 'Game Development', 'Web Development']","['Creative', 'Technology']",Product
+Game Developer,99,51,10,2,8,5,8,2,4,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Startup
+Game Developer,92,60,7,2,8,5,8,1,4,"['Mobile Development', 'Web Development', 'Game Development']",['Creative'],Startup
+Game Developer,94,54,7,2,9,4,7,2,4,"['Mobile Development', 'Game Development']","['Technology', 'Creative']",Startup
+Game Developer,81,68,10,3,9,4,8,2,2,"['Mobile Development', 'Web Development']","['Creative', 'Technology']",Product
+Game Developer,93,50,9,1,9,7,7,2,2,['Game Development'],['Technology'],Product
+Game Developer,97,50,7,2,9,6,7,1,3,['Game Development'],"['Creative', 'Technology']",Product
+Game Developer,88,76,10,2,9,4,9,2,4,"['Game Development', 'Web Development']","['Creative', 'Technology']",Startup
+Game Developer,88,52,8,1,9,6,9,2,4,"['Web Development', 'Game Development']",['Technology'],Startup
+Game Developer,75,72,8,1,9,4,7,1,4,['Game Development'],"['Technology', 'Creative']",Product
+Game Developer,80,78,10,2,8,5,7,2,4,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Product
+Game Developer,88,73,8,3,9,7,8,1,2,['Game Development'],"['Creative', 'Technology']",Product
+Game Developer,92,62,10,2,8,4,8,1,2,"['Game Development', 'Mobile Development']",['Technology'],Startup
+Game Developer,88,52,8,2,9,4,8,1,4,"['Mobile Development', 'Web Development']","['Creative', 'Technology']",Startup
+Game Developer,96,73,9,1,8,5,8,2,3,"['Web Development', 'Game Development']","['Technology', 'Creative']",Startup
+Game Developer,83,59,7,3,9,5,9,1,3,"['Web Development', 'Game Development', 'Mobile Development']",['Technology'],Product
+Game Developer,92,58,10,1,9,7,8,1,3,"['Mobile Development', 'Game Development']","['Creative', 'Technology']",Product
+Game Developer,76,57,9,1,8,5,9,2,2,"['Mobile Development', 'Game Development']",['Creative'],Product
+Game Developer,84,74,7,1,9,5,8,1,3,['Game Development'],"['Technology', 'Creative']",Product
+Game Developer,94,56,9,3,8,6,9,1,3,['Mobile Development'],['Creative'],Product
+Game Developer,84,74,10,1,9,6,9,1,3,"['Mobile Development', 'Web Development']",['Creative'],Product
+Game Developer,95,78,8,3,9,7,8,1,3,['Game Development'],"['Creative', 'Technology']",Product
+Game Developer,82,75,10,3,9,7,7,1,3,"['Game Development', 'Web Development', 'Mobile Development']","['Creative', 'Technology']",Product
+Game Developer,78,77,8,1,8,5,7,2,4,"['Mobile Development', 'Game Development']",['Technology'],Product
+Game Developer,81,57,8,2,8,5,9,2,4,"['Mobile Development', 'Web Development', 'Game Development']","['Creative', 'Technology']",Product
+Game Developer,77,71,10,3,9,6,8,2,4,['Mobile Development'],['Creative'],Startup
+Game Developer,95,79,7,2,9,4,9,2,2,['Web Development'],['Creative'],Product
+Game Developer,92,61,9,2,9,4,8,1,4,['Web Development'],"['Technology', 'Creative']",Product
+Game Developer,88,53,8,1,9,7,9,2,4,"['Web Development', 'Mobile Development', 'Game Development']",['Creative'],Product
+Game Developer,93,79,7,1,9,6,9,1,2,"['Web Development', 'Mobile Development']",['Technology'],Startup
+Game Developer,98,51,10,3,9,5,8,2,4,['Game Development'],['Technology'],Startup
+Game Developer,97,69,10,3,9,7,7,2,4,['Game Development'],['Creative'],Startup
+Game Developer,88,65,10,2,8,7,8,2,3,['Web Development'],"['Creative', 'Technology']",Product
+Game Developer,81,71,10,2,9,4,7,2,3,['Web Development'],['Creative'],Product
+Game Developer,94,67,8,2,9,5,7,2,3,"['Game Development', 'Mobile Development', 'Web Development']",['Technology'],Product
+Game Developer,76,53,7,3,8,6,7,1,2,['Mobile Development'],['Creative'],Startup
+Game Developer,90,70,7,2,8,5,8,1,3,"['Game Development', 'Web Development', 'Mobile Development']","['Technology', 'Creative']",Product
+Game Developer,91,73,9,1,8,6,8,1,3,"['Mobile Development', 'Game Development']",['Technology'],Product
+Game Developer,95,76,9,3,9,6,8,2,2,"['Game Development', 'Web Development']",['Technology'],Startup
+Game Developer,95,60,9,3,8,7,7,2,4,['Game Development'],['Technology'],Product
+Game Developer,93,68,9,2,9,5,9,2,3,"['Web Development', 'Game Development']","['Creative', 'Technology']",Startup
+Blockchain Developer,70,63,8,2,8,4,8,2,3,['Blockchain'],['Technology'],Startup
+Blockchain Developer,95,75,9,3,9,6,9,3,4,"['Blockchain', 'Cybersecurity']",['Technology'],Product
+Blockchain Developer,79,74,8,3,8,4,9,3,3,"['Blockchain', 'Cybersecurity']",['Technology'],Startup
+Blockchain Developer,97,58,6,3,8,6,8,3,4,"['Cybersecurity', 'Web Development', 'Blockchain']",['Technology'],Product
+Blockchain Developer,97,50,7,1,9,6,9,2,3,"['Web Development', 'Cybersecurity', 'Blockchain']",['Technology'],Startup
+Blockchain Developer,72,79,9,2,8,4,8,3,4,"['Blockchain', 'Web Development']",['Technology'],Product
+Blockchain Developer,92,60,7,3,8,4,8,3,3,"['Blockchain', 'Web Development', 'Cybersecurity']",['Technology'],Startup
+Blockchain Developer,86,78,6,1,8,7,9,2,3,"['Web Development', 'Blockchain']",['Technology'],Startup
+Blockchain Developer,96,58,8,2,8,5,9,2,3,"['Web Development', 'Cybersecurity']",['Technology'],Product
+Blockchain Developer,88,64,6,1,8,7,8,3,4,['Web Development'],['Technology'],Startup
+Blockchain Developer,73,58,7,1,9,5,8,2,3,"['Blockchain', 'Cybersecurity', 'Web Development']",['Technology'],Product
+Blockchain Developer,82,61,6,2,9,7,9,3,4,['Cybersecurity'],['Technology'],Product
+Blockchain Developer,80,72,8,1,8,5,9,3,4,"['Web Development', 'Cybersecurity']",['Technology'],Startup
+Blockchain Developer,71,52,8,2,8,4,9,2,4,['Blockchain'],['Technology'],Startup
+Blockchain Developer,73,60,8,1,9,4,9,2,4,['Web Development'],['Technology'],Startup
+Blockchain Developer,72,67,9,1,8,4,8,2,4,['Web Development'],['Technology'],Startup
+Blockchain Developer,96,62,9,1,8,7,9,2,2,"['Cybersecurity', 'Blockchain', 'Web Development']",['Technology'],Startup
+Blockchain Developer,74,67,6,2,9,4,9,2,3,['Blockchain'],['Technology'],Startup
+Blockchain Developer,82,72,9,2,8,4,9,3,4,"['Web Development', 'Blockchain']",['Technology'],Startup
+Blockchain Developer,94,61,8,1,9,7,8,2,2,"['Cybersecurity', 'Blockchain', 'Web Development']",['Technology'],Product
+Blockchain Developer,78,73,7,3,9,6,8,2,4,"['Blockchain', 'Web Development']",['Technology'],Product
+Blockchain Developer,93,75,6,1,8,5,8,3,3,"['Cybersecurity', 'Blockchain']",['Technology'],Product
+Blockchain Developer,75,70,9,1,9,7,8,3,3,"['Blockchain', 'Cybersecurity', 'Web Development']",['Technology'],Startup
+Blockchain Developer,90,73,6,1,9,5,8,3,3,"['Cybersecurity', 'Blockchain', 'Web Development']",['Technology'],Product
+Blockchain Developer,81,70,8,2,9,4,8,3,3,['Blockchain'],['Technology'],Startup
+Blockchain Developer,92,79,7,3,9,7,9,3,4,"['Web Development', 'Blockchain']",['Technology'],Startup
+Blockchain Developer,95,63,6,1,8,7,9,3,4,"['Blockchain', 'Web Development', 'Cybersecurity']",['Technology'],Startup
+Blockchain Developer,92,77,7,2,9,5,8,2,2,"['Web Development', 'Cybersecurity']",['Technology'],Startup
+Blockchain Developer,96,73,8,1,8,4,9,3,3,"['Web Development', 'Cybersecurity', 'Blockchain']",['Technology'],Startup
+Blockchain Developer,70,76,6,1,8,6,8,2,4,"['Cybersecurity', 'Blockchain']",['Technology'],Startup
+Blockchain Developer,95,51,9,2,9,5,8,3,4,"['Cybersecurity', 'Web Development', 'Blockchain']",['Technology'],Startup
+Blockchain Developer,95,77,6,1,9,5,9,2,3,['Cybersecurity'],['Technology'],Product
+Blockchain Developer,71,53,9,2,8,5,8,3,3,"['Web Development', 'Cybersecurity']",['Technology'],Startup
+Blockchain Developer,87,55,7,2,9,4,9,2,4,"['Blockchain', 'Cybersecurity']",['Technology'],Product
+Blockchain Developer,77,53,6,2,8,4,9,2,4,['Blockchain'],['Technology'],Startup
+Blockchain Developer,88,61,6,3,9,4,8,2,2,['Web Development'],['Technology'],Startup
+Blockchain Developer,83,72,9,2,9,6,8,3,4,"['Web Development', 'Blockchain', 'Cybersecurity']",['Technology'],Startup
+Blockchain Developer,82,76,8,1,9,4,8,3,2,"['Blockchain', 'Cybersecurity', 'Web Development']",['Technology'],Product
+Blockchain Developer,78,73,6,3,8,5,8,3,3,"['Web Development', 'Blockchain', 'Cybersecurity']",['Technology'],Product
+Blockchain Developer,80,75,7,3,9,4,9,3,2,"['Web Development', 'Cybersecurity']",['Technology'],Product
+Blockchain Developer,74,59,8,3,8,4,9,2,3,['Blockchain'],['Technology'],Product
+Blockchain Developer,92,79,9,2,9,5,9,2,2,"['Blockchain', 'Web Development', 'Cybersecurity']",['Technology'],Startup
+Blockchain Developer,71,66,8,2,8,5,9,3,3,"['Web Development', 'Cybersecurity', 'Blockchain']",['Technology'],Product
+Blockchain Developer,92,67,8,3,9,4,8,3,2,"['Cybersecurity', 'Web Development', 'Blockchain']",['Technology'],Product
+Blockchain Developer,78,65,7,2,9,5,9,3,3,"['Blockchain', 'Cybersecurity', 'Web Development']",['Technology'],Startup
+Blockchain Developer,95,66,7,1,8,6,9,3,2,"['Blockchain', 'Web Development', 'Cybersecurity']",['Technology'],Product
+Blockchain Developer,85,79,7,1,9,7,8,3,2,"['Web Development', 'Cybersecurity']",['Technology'],Startup
+Blockchain Developer,92,61,9,3,9,6,8,3,3,"['Web Development', 'Blockchain']",['Technology'],Product
+Blockchain Developer,95,75,7,1,9,4,9,2,2,['Blockchain'],['Technology'],Startup
+Blockchain Developer,96,50,8,3,9,7,9,3,4,"['Cybersecurity', 'Blockchain']",['Technology'],Startup
+Blockchain Developer,89,77,6,3,9,5,9,2,4,"['Blockchain', 'Cybersecurity', 'Web Development']",['Technology'],Product
+Blockchain Developer,94,68,6,1,8,6,9,3,3,"['Cybersecurity', 'Web Development']",['Technology'],Product
+Blockchain Developer,92,74,6,3,9,6,8,2,3,"['Cybersecurity', 'Blockchain']",['Technology'],Product
+Blockchain Developer,79,62,9,2,9,7,8,2,3,"['Blockchain', 'Web Development']",['Technology'],Startup
+Blockchain Developer,94,76,6,2,8,6,9,3,4,"['Web Development', 'Cybersecurity']",['Technology'],Product
+Blockchain Developer,70,64,6,2,9,4,9,3,2,['Blockchain'],['Technology'],Startup
+Blockchain Developer,70,58,6,2,8,6,9,3,2,"['Blockchain', 'Cybersecurity', 'Web Development']",['Technology'],Product
+Blockchain Developer,77,69,7,1,8,6,8,2,2,"['Cybersecurity', 'Blockchain']",['Technology'],Startup
+Blockchain Developer,93,70,9,3,8,4,9,3,3,"['Blockchain', 'Cybersecurity']",['Technology'],Product
+Blockchain Developer,95,59,9,2,8,5,8,3,3,"['Cybersecurity', 'Web Development']",['Technology'],Product
+Blockchain Developer,77,72,8,3,9,7,8,2,2,"['Web Development', 'Blockchain']",['Technology'],Startup
+Blockchain Developer,86,75,9,2,8,7,8,3,2,"['Web Development', 'Cybersecurity', 'Blockchain']",['Technology'],Startup
+Blockchain Developer,81,75,8,1,8,4,8,3,4,"['Cybersecurity', 'Web Development', 'Blockchain']",['Technology'],Product
+Blockchain Developer,77,70,7,3,9,7,9,2,4,"['Blockchain', 'Cybersecurity']",['Technology'],Startup
+Blockchain Developer,75,72,7,1,9,6,8,2,3,"['Cybersecurity', 'Web Development']",['Technology'],Startup
+Blockchain Developer,84,52,8,1,9,5,8,3,3,['Blockchain'],['Technology'],Product
+Blockchain Developer,94,53,9,3,9,4,9,2,2,"['Web Development', 'Blockchain']",['Technology'],Startup
+Blockchain Developer,70,51,6,3,8,6,9,2,2,"['Blockchain', 'Cybersecurity', 'Web Development']",['Technology'],Product
+Blockchain Developer,74,50,8,3,8,4,8,3,4,['Blockchain'],['Technology'],Product
+Blockchain Developer,89,66,8,2,9,5,9,2,3,['Blockchain'],['Technology'],Product
+Blockchain Developer,87,50,6,1,8,5,8,2,4,['Blockchain'],['Technology'],Product
+Blockchain Developer,79,75,8,3,8,4,9,2,2,['Web Development'],['Technology'],Startup
+Blockchain Developer,80,52,9,3,8,5,8,2,3,"['Cybersecurity', 'Blockchain', 'Web Development']",['Technology'],Product
+Blockchain Developer,83,59,9,2,8,6,8,2,3,['Web Development'],['Technology'],Startup
+Blockchain Developer,73,61,6,1,8,6,8,3,2,"['Cybersecurity', 'Web Development']",['Technology'],Product
+Blockchain Developer,90,50,6,1,8,7,9,3,2,"['Blockchain', 'Web Development']",['Technology'],Startup
+Blockchain Developer,99,67,7,2,9,6,9,3,2,"['Cybersecurity', 'Blockchain', 'Web Development']",['Technology'],Startup
+Blockchain Developer,91,71,9,2,9,7,8,2,3,"['Cybersecurity', 'Web Development']",['Technology'],Startup
+Blockchain Developer,77,74,6,3,9,5,9,2,4,['Web Development'],['Technology'],Product
+Blockchain Developer,72,79,7,1,9,4,9,2,4,['Blockchain'],['Technology'],Startup
+Blockchain Developer,74,73,8,2,9,7,8,3,3,['Blockchain'],['Technology'],Startup
+Blockchain Developer,76,72,9,1,8,7,9,3,4,"['Web Development', 'Blockchain']",['Technology'],Startup
+Blockchain Developer,79,57,8,2,9,4,8,3,2,"['Cybersecurity', 'Web Development']",['Technology'],Startup
+Blockchain Developer,85,51,7,1,9,5,9,2,4,"['Cybersecurity', 'Blockchain', 'Web Development']",['Technology'],Product
+Blockchain Developer,94,55,8,2,8,4,9,3,3,['Cybersecurity'],['Technology'],Startup
+Blockchain Developer,97,51,9,2,8,7,8,3,4,"['Blockchain', 'Web Development']",['Technology'],Product
+Blockchain Developer,93,75,8,1,8,4,8,3,2,"['Cybersecurity', 'Web Development']",['Technology'],Product
+Blockchain Developer,74,53,9,1,9,7,8,3,2,"['Blockchain', 'Web Development']",['Technology'],Startup
+Blockchain Developer,86,72,7,1,9,6,8,3,2,"['Cybersecurity', 'Web Development', 'Blockchain']",['Technology'],Product
+Blockchain Developer,72,69,6,2,8,5,9,2,4,['Cybersecurity'],['Technology'],Product
+Blockchain Developer,99,78,8,2,8,5,8,3,4,['Cybersecurity'],['Technology'],Product
+Blockchain Developer,81,69,8,3,8,5,8,3,3,"['Blockchain', 'Cybersecurity']",['Technology'],Startup
+Blockchain Developer,78,73,7,3,9,7,9,2,4,"['Cybersecurity', 'Blockchain']",['Technology'],Startup
+Blockchain Developer,89,75,9,3,9,6,9,2,4,"['Cybersecurity', 'Web Development', 'Blockchain']",['Technology'],Product
+Blockchain Developer,83,50,7,1,8,4,9,3,2,"['Cybersecurity', 'Web Development']",['Technology'],Product
+Blockchain Developer,70,65,7,2,9,7,9,2,3,['Blockchain'],['Technology'],Product
+Blockchain Developer,81,79,9,3,9,5,8,3,4,['Blockchain'],['Technology'],Product
+Blockchain Developer,90,74,9,2,9,6,8,3,4,['Blockchain'],['Technology'],Startup
+Blockchain Developer,78,53,6,1,9,5,9,3,2,['Web Development'],['Technology'],Startup
+Blockchain Developer,88,64,8,1,9,5,9,2,2,"['Blockchain', 'Web Development', 'Cybersecurity']",['Technology'],Startup
+Robotics Engineer,92,81,8,3,7,5,9,3,5,"['AI/ML', 'Robotics']",['Research'],MNC
+Robotics Engineer,66,67,7,2,8,7,8,3,3,['AI/ML'],['Research'],Product
+Robotics Engineer,77,80,6,2,7,8,9,3,4,['Mobile Development'],"['Research', 'Technology']",MNC
+Robotics Engineer,93,79,6,2,7,8,9,3,4,['AI/ML'],['Technology'],Product
+Robotics Engineer,78,59,8,1,8,7,9,3,3,"['Mobile Development', 'Robotics', 'AI/ML']","['Research', 'Technology']",MNC
+Robotics Engineer,71,83,8,1,8,8,9,3,5,"['Mobile Development', 'Robotics']","['Research', 'Technology']",Product
+Robotics Engineer,74,75,7,3,7,7,9,3,4,"['AI/ML', 'Mobile Development']","['Technology', 'Research']",MNC
+Robotics Engineer,85,72,8,3,8,6,9,2,5,"['Mobile Development', 'AI/ML']","['Research', 'Technology']",MNC
+Robotics Engineer,90,77,6,2,8,8,8,2,4,['AI/ML'],"['Research', 'Technology']",Product
+Robotics Engineer,68,58,6,2,8,6,8,2,5,['AI/ML'],"['Research', 'Technology']",Product
+Robotics Engineer,76,57,8,3,7,6,9,3,5,"['Mobile Development', 'AI/ML']","['Research', 'Technology']",MNC
+Robotics Engineer,71,58,7,1,8,6,8,3,3,['Robotics'],"['Research', 'Technology']",MNC
+Robotics Engineer,93,75,6,1,8,7,9,2,3,['Robotics'],['Research'],Product
+Robotics Engineer,67,75,7,1,8,6,8,2,3,"['Robotics', 'AI/ML', 'Mobile Development']",['Technology'],MNC
+Robotics Engineer,77,55,6,3,7,6,8,3,5,"['Robotics', 'AI/ML']","['Technology', 'Research']",Product
+Robotics Engineer,82,83,7,1,8,7,9,2,5,"['Robotics', 'Mobile Development']",['Technology'],Product
+Robotics Engineer,72,58,8,1,7,6,9,3,3,"['Mobile Development', 'Robotics']",['Research'],MNC
+Robotics Engineer,73,82,8,3,8,8,9,2,3,"['Mobile Development', 'AI/ML']","['Technology', 'Research']",MNC
+Robotics Engineer,71,72,8,2,7,8,8,3,5,['Robotics'],"['Research', 'Technology']",MNC
+Robotics Engineer,78,68,6,3,8,7,8,3,4,"['Mobile Development', 'AI/ML', 'Robotics']",['Technology'],Product
+Robotics Engineer,65,61,7,1,7,7,8,3,3,"['AI/ML', 'Robotics']",['Research'],MNC
+Robotics Engineer,74,69,6,1,8,6,8,3,3,['Mobile Development'],"['Technology', 'Research']",Product
+Robotics Engineer,76,64,6,2,8,5,8,3,4,"['Robotics', 'AI/ML']",['Research'],Product
+Robotics Engineer,65,76,6,3,7,6,8,2,3,"['Robotics', 'AI/ML']",['Research'],Product
+Robotics Engineer,75,84,8,2,8,6,9,2,3,['Robotics'],"['Technology', 'Research']",Product
+Robotics Engineer,77,78,7,3,8,7,8,3,5,['AI/ML'],"['Research', 'Technology']",MNC
+Robotics Engineer,93,56,6,3,8,7,9,3,3,"['Mobile Development', 'Robotics']","['Research', 'Technology']",MNC
+Robotics Engineer,81,72,7,1,7,6,9,3,4,"['AI/ML', 'Robotics', 'Mobile Development']",['Research'],Product
+Robotics Engineer,68,69,7,2,8,7,9,2,4,"['Robotics', 'AI/ML', 'Mobile Development']",['Technology'],Product
+Robotics Engineer,80,70,8,2,8,8,9,2,5,"['Robotics', 'Mobile Development', 'AI/ML']",['Research'],Product
+Robotics Engineer,76,63,8,2,7,7,8,3,5,"['AI/ML', 'Robotics']",['Research'],Product
+Robotics Engineer,76,67,7,2,8,6,8,3,5,"['Robotics', 'Mobile Development']","['Research', 'Technology']",MNC
+Robotics Engineer,78,72,6,1,7,6,8,2,5,"['AI/ML', 'Mobile Development']","['Research', 'Technology']",MNC
+Robotics Engineer,78,59,7,1,8,8,8,2,5,['Mobile Development'],['Research'],MNC
+Robotics Engineer,91,73,7,1,8,8,8,3,3,"['AI/ML', 'Robotics']","['Research', 'Technology']",MNC
+Robotics Engineer,87,80,8,1,8,6,9,3,4,"['AI/ML', 'Mobile Development']","['Research', 'Technology']",MNC
+Robotics Engineer,76,81,8,1,8,6,8,2,5,"['Mobile Development', 'AI/ML', 'Robotics']","['Research', 'Technology']",Product
+Robotics Engineer,68,71,8,1,7,5,8,3,3,"['Robotics', 'AI/ML', 'Mobile Development']","['Research', 'Technology']",MNC
+Robotics Engineer,76,73,7,2,8,8,8,2,4,['Robotics'],['Technology'],Product
+Robotics Engineer,66,68,8,2,7,6,8,3,5,['Robotics'],"['Technology', 'Research']",Product
+Robotics Engineer,89,74,6,1,8,7,9,2,3,"['Mobile Development', 'AI/ML', 'Robotics']",['Research'],Product
+Robotics Engineer,93,60,8,1,8,7,9,3,3,"['AI/ML', 'Mobile Development']","['Technology', 'Research']",Product
+Robotics Engineer,80,75,8,2,7,7,8,3,5,['Mobile Development'],['Technology'],MNC
+Robotics Engineer,71,71,6,1,8,6,8,2,5,"['Mobile Development', 'Robotics', 'AI/ML']",['Technology'],MNC
+Robotics Engineer,82,73,8,2,8,8,9,2,3,"['Mobile Development', 'Robotics']",['Research'],MNC
+Robotics Engineer,74,61,8,3,8,8,8,2,4,['Robotics'],['Research'],Product
+Robotics Engineer,66,60,7,1,8,5,9,3,4,['AI/ML'],['Technology'],MNC
+Robotics Engineer,81,60,7,3,7,6,9,2,4,['AI/ML'],['Research'],Product
+Robotics Engineer,80,58,8,3,7,8,9,2,4,['Mobile Development'],"['Technology', 'Research']",Product
+Robotics Engineer,79,79,7,3,7,8,9,2,3,"['Robotics', 'Mobile Development']","['Technology', 'Research']",Product
+Robotics Engineer,67,63,8,1,8,5,9,3,4,['Mobile Development'],['Technology'],Product
+Robotics Engineer,94,79,7,1,7,8,8,3,5,"['AI/ML', 'Mobile Development']","['Technology', 'Research']",MNC
+Robotics Engineer,94,83,7,1,7,5,9,2,5,"['Robotics', 'Mobile Development']","['Research', 'Technology']",MNC
+Robotics Engineer,77,82,7,1,7,8,9,2,5,"['Mobile Development', 'AI/ML']","['Research', 'Technology']",Product
+Robotics Engineer,91,63,8,3,8,6,9,3,5,['Mobile Development'],['Technology'],Product
+Robotics Engineer,81,57,7,3,8,8,9,3,5,"['Robotics', 'AI/ML']",['Research'],Product
+Robotics Engineer,65,80,6,3,7,8,9,2,3,"['AI/ML', 'Robotics', 'Mobile Development']",['Technology'],Product
+Robotics Engineer,88,78,7,2,7,5,8,3,5,"['Mobile Development', 'Robotics']",['Technology'],Product
+Robotics Engineer,76,74,7,3,8,6,9,3,4,"['Robotics', 'AI/ML', 'Mobile Development']","['Technology', 'Research']",MNC
+Robotics Engineer,81,83,7,2,7,8,9,2,3,"['Robotics', 'Mobile Development']","['Research', 'Technology']",MNC
+Robotics Engineer,93,70,7,3,7,6,9,2,4,"['Mobile Development', 'Robotics', 'AI/ML']",['Technology'],Product
+Robotics Engineer,73,77,7,2,7,5,9,3,5,"['Mobile Development', 'AI/ML', 'Robotics']","['Technology', 'Research']",Product
+Robotics Engineer,67,65,7,3,8,8,8,2,3,['AI/ML'],['Research'],MNC
+Robotics Engineer,83,72,7,1,8,6,8,2,5,['AI/ML'],['Research'],Product
+Robotics Engineer,75,69,7,2,7,8,8,2,3,"['Mobile Development', 'Robotics']","['Research', 'Technology']",Product
+Robotics Engineer,87,63,7,3,8,6,9,3,5,['Mobile Development'],"['Research', 'Technology']",Product
+Robotics Engineer,67,65,7,1,7,7,8,2,4,['Robotics'],"['Technology', 'Research']",MNC
+Robotics Engineer,79,66,8,3,8,8,9,3,4,"['AI/ML', 'Robotics', 'Mobile Development']","['Research', 'Technology']",Product
+Robotics Engineer,79,61,6,3,8,6,8,3,3,['AI/ML'],['Technology'],MNC
+Robotics Engineer,85,81,8,2,7,5,8,2,5,['Mobile Development'],"['Research', 'Technology']",Product
+Robotics Engineer,76,80,8,3,8,5,8,2,5,['Mobile Development'],"['Technology', 'Research']",Product
+Robotics Engineer,78,68,8,3,8,5,9,3,3,"['Mobile Development', 'Robotics']","['Technology', 'Research']",MNC
+Robotics Engineer,89,58,7,3,8,7,9,2,3,['Mobile Development'],"['Technology', 'Research']",MNC
+Robotics Engineer,78,69,6,1,7,7,9,3,5,"['AI/ML', 'Mobile Development']","['Research', 'Technology']",MNC
+Robotics Engineer,91,75,8,3,7,8,9,3,4,"['AI/ML', 'Robotics', 'Mobile Development']",['Research'],Product
+Robotics Engineer,85,84,8,3,7,6,8,2,3,"['Mobile Development', 'AI/ML', 'Robotics']","['Research', 'Technology']",Product
+Robotics Engineer,77,79,8,1,7,8,8,2,3,['Robotics'],['Research'],MNC
+Robotics Engineer,77,56,8,3,7,6,9,3,3,"['Robotics', 'Mobile Development']",['Technology'],Product
+Robotics Engineer,71,77,7,1,8,6,9,2,3,['Mobile Development'],['Research'],Product
+Robotics Engineer,68,64,6,3,8,7,8,3,4,"['Mobile Development', 'Robotics']",['Research'],MNC
+Robotics Engineer,77,61,7,1,8,7,9,3,3,"['Robotics', 'AI/ML', 'Mobile Development']","['Technology', 'Research']",Product
+Robotics Engineer,84,68,6,1,8,7,9,3,3,['AI/ML'],"['Technology', 'Research']",MNC
+Robotics Engineer,75,82,7,2,8,6,9,3,4,"['AI/ML', 'Robotics']","['Research', 'Technology']",Product
+Robotics Engineer,69,82,7,1,8,6,8,2,5,"['AI/ML', 'Robotics']",['Technology'],Product
+Robotics Engineer,66,84,6,2,7,6,9,3,5,"['Mobile Development', 'Robotics']","['Research', 'Technology']",Product
+Robotics Engineer,74,76,6,1,8,5,8,2,5,"['Robotics', 'AI/ML', 'Mobile Development']",['Technology'],MNC
+Robotics Engineer,91,69,6,3,7,5,9,2,3,['Mobile Development'],"['Research', 'Technology']",Product
+Robotics Engineer,72,58,8,1,7,6,8,3,5,"['AI/ML', 'Mobile Development', 'Robotics']",['Research'],Product
+Robotics Engineer,85,61,8,3,7,6,8,2,3,"['Robotics', 'AI/ML', 'Mobile Development']","['Research', 'Technology']",MNC
+Robotics Engineer,78,68,8,2,7,7,9,2,5,['Robotics'],['Technology'],Product
+Robotics Engineer,71,82,7,1,8,6,9,2,5,['AI/ML'],['Technology'],Product
+Robotics Engineer,81,67,7,2,8,5,8,3,3,"['Mobile Development', 'AI/ML']",['Technology'],MNC
+Robotics Engineer,88,55,8,3,7,8,8,2,4,"['Mobile Development', 'AI/ML', 'Robotics']",['Technology'],Product
+Robotics Engineer,78,63,7,2,8,7,8,2,5,"['AI/ML', 'Robotics']","['Technology', 'Research']",MNC
+Robotics Engineer,73,71,6,3,7,5,8,2,5,['AI/ML'],"['Research', 'Technology']",Product
+Robotics Engineer,84,56,8,3,8,7,9,3,4,"['AI/ML', 'Robotics']","['Research', 'Technology']",MNC
+Robotics Engineer,70,63,8,2,8,6,9,3,3,"['Robotics', 'Mobile Development']",['Research'],MNC
+Robotics Engineer,67,67,7,2,7,7,9,3,4,"['Mobile Development', 'Robotics']",['Research'],MNC
+Robotics Engineer,90,69,7,2,7,6,9,3,3,"['Robotics', 'AI/ML', 'Mobile Development']",['Technology'],MNC
+Robotics Engineer,79,76,6,1,7,8,9,3,5,"['Robotics', 'AI/ML', 'Mobile Development']",['Research'],Product
+AI/ML Engineer,68,63,6,1,7,5,8,3,5,['Data Science'],['Technology'],Product
+AI/ML Engineer,82,81,7,2,8,6,9,2,3,"['AI/ML', 'Robotics']",['Technology'],Product
+AI/ML Engineer,75,65,6,1,7,8,9,2,5,"['Robotics', 'Data Science']",['Research'],MNC
+AI/ML Engineer,89,77,6,1,8,8,8,3,4,"['AI/ML', 'Robotics', 'Data Science']",['Research'],MNC
+AI/ML Engineer,87,76,7,3,8,5,8,3,4,"['Robotics', 'AI/ML']","['Technology', 'Research']",Product
+AI/ML Engineer,88,63,7,1,7,6,8,2,4,"['AI/ML', 'Robotics']","['Technology', 'Research']",MNC
+AI/ML Engineer,72,82,7,3,8,6,9,2,4,['AI/ML'],"['Technology', 'Research']",Product
+AI/ML Engineer,94,64,8,2,8,5,9,3,4,['Data Science'],['Technology'],MNC
+AI/ML Engineer,73,66,8,3,7,8,8,2,3,['Data Science'],['Technology'],MNC
+AI/ML Engineer,71,84,8,3,8,5,9,3,3,"['Data Science', 'AI/ML']",['Technology'],MNC
+AI/ML Engineer,84,64,7,3,7,7,9,2,4,"['Data Science', 'Robotics']",['Technology'],Product
+AI/ML Engineer,79,59,6,2,7,8,9,3,3,"['Robotics', 'AI/ML', 'Data Science']",['Technology'],Product
+AI/ML Engineer,73,65,7,3,7,5,8,2,3,['Robotics'],"['Technology', 'Research']",MNC
+AI/ML Engineer,78,58,7,2,8,5,8,3,5,['Robotics'],"['Technology', 'Research']",Product
+AI/ML Engineer,67,64,7,1,8,7,8,2,3,"['Data Science', 'AI/ML', 'Robotics']","['Technology', 'Research']",MNC
+AI/ML Engineer,84,70,6,1,7,8,8,3,5,"['AI/ML', 'Data Science']",['Research'],Product
+AI/ML Engineer,90,55,8,3,8,5,8,3,4,"['AI/ML', 'Data Science']","['Research', 'Technology']",Product
+AI/ML Engineer,89,79,7,1,8,6,9,2,3,"['Data Science', 'AI/ML', 'Robotics']",['Research'],Product
+AI/ML Engineer,94,70,7,2,8,5,9,2,4,"['Robotics', 'AI/ML']",['Technology'],MNC
+AI/ML Engineer,68,74,7,2,7,8,8,3,4,"['Robotics', 'Data Science']","['Research', 'Technology']",MNC
+AI/ML Engineer,94,67,6,3,8,6,8,2,5,"['Data Science', 'Robotics', 'AI/ML']","['Technology', 'Research']",MNC
+AI/ML Engineer,82,79,7,1,8,8,9,3,4,['Data Science'],['Technology'],Product
+AI/ML Engineer,65,65,6,3,8,8,8,3,3,"['AI/ML', 'Data Science', 'Robotics']",['Technology'],Product
+AI/ML Engineer,65,76,7,1,7,8,8,3,5,"['AI/ML', 'Data Science', 'Robotics']","['Research', 'Technology']",Product
+AI/ML Engineer,87,68,6,3,7,5,8,3,5,"['Data Science', 'AI/ML', 'Robotics']","['Technology', 'Research']",MNC
+AI/ML Engineer,84,75,6,3,7,6,9,3,5,"['Data Science', 'Robotics', 'AI/ML']",['Research'],Product
+AI/ML Engineer,83,68,7,3,8,7,9,3,4,"['AI/ML', 'Data Science']","['Research', 'Technology']",Product
+AI/ML Engineer,76,58,8,1,7,6,8,3,3,"['AI/ML', 'Data Science', 'Robotics']","['Technology', 'Research']",MNC
+AI/ML Engineer,68,69,7,3,8,7,9,3,4,['Data Science'],['Technology'],Product
+AI/ML Engineer,90,56,8,1,7,6,8,2,4,"['Robotics', 'AI/ML', 'Data Science']",['Research'],Product
+AI/ML Engineer,68,63,6,1,8,5,9,2,4,"['Robotics', 'Data Science']",['Research'],MNC
+AI/ML Engineer,80,71,8,3,8,8,9,3,4,"['AI/ML', 'Data Science', 'Robotics']","['Research', 'Technology']",Product
+AI/ML Engineer,73,71,7,3,8,6,9,2,3,"['AI/ML', 'Data Science']","['Research', 'Technology']",MNC
+AI/ML Engineer,84,80,7,2,7,8,8,2,5,['Data Science'],"['Research', 'Technology']",MNC
+AI/ML Engineer,88,62,7,2,7,7,9,3,4,"['Robotics', 'AI/ML']",['Technology'],Product
+AI/ML Engineer,66,71,6,1,7,8,8,2,5,"['Data Science', 'Robotics', 'AI/ML']",['Technology'],Product
+AI/ML Engineer,77,59,7,1,7,8,8,2,4,"['Data Science', 'AI/ML']","['Technology', 'Research']",MNC
+AI/ML Engineer,69,66,8,1,7,5,8,3,5,"['AI/ML', 'Robotics', 'Data Science']","['Technology', 'Research']",MNC
+AI/ML Engineer,87,66,6,2,7,8,8,3,4,"['Data Science', 'Robotics']","['Technology', 'Research']",MNC
+AI/ML Engineer,69,66,8,2,7,7,9,3,4,['Data Science'],['Research'],Product
+AI/ML Engineer,90,73,6,2,8,8,8,3,3,"['AI/ML', 'Robotics']",['Technology'],Product
+AI/ML Engineer,89,78,8,2,8,7,9,3,5,"['Data Science', 'Robotics']",['Research'],MNC
+AI/ML Engineer,67,62,7,3,7,8,9,2,4,['Robotics'],"['Technology', 'Research']",Product
+AI/ML Engineer,83,61,7,1,7,7,8,2,3,['Robotics'],"['Technology', 'Research']",Product
+AI/ML Engineer,83,65,8,3,7,7,8,2,4,"['Data Science', 'AI/ML']",['Research'],MNC
+AI/ML Engineer,80,67,6,1,7,8,9,2,4,['AI/ML'],"['Research', 'Technology']",Product
+AI/ML Engineer,77,71,8,2,8,7,9,3,4,"['AI/ML', 'Data Science']","['Technology', 'Research']",MNC
+AI/ML Engineer,65,82,8,1,8,7,9,3,3,"['Data Science', 'AI/ML', 'Robotics']",['Research'],Product
+AI/ML Engineer,87,71,8,1,7,6,9,3,3,"['AI/ML', 'Data Science']","['Research', 'Technology']",Product
+AI/ML Engineer,92,80,8,3,7,7,8,3,4,['Data Science'],['Research'],MNC
+AI/ML Engineer,71,74,7,1,8,8,9,2,3,"['Robotics', 'Data Science']",['Technology'],Product
+AI/ML Engineer,70,65,7,1,7,6,8,2,3,"['AI/ML', 'Data Science', 'Robotics']","['Research', 'Technology']",Product
+AI/ML Engineer,66,67,8,1,7,5,9,2,5,"['Robotics', 'Data Science']","['Technology', 'Research']",MNC
+AI/ML Engineer,79,59,6,2,8,5,8,3,5,"['Robotics', 'Data Science']",['Research'],MNC
+AI/ML Engineer,86,64,7,2,8,6,8,2,5,['Robotics'],"['Technology', 'Research']",MNC
+AI/ML Engineer,92,84,8,3,7,5,8,3,5,"['Data Science', 'AI/ML', 'Robotics']",['Technology'],MNC
+AI/ML Engineer,80,63,8,3,7,8,8,3,5,"['Robotics', 'AI/ML', 'Data Science']",['Research'],MNC
+AI/ML Engineer,77,76,6,3,7,7,9,3,3,['Data Science'],['Research'],Product
+AI/ML Engineer,88,58,6,2,8,6,8,3,5,['AI/ML'],['Technology'],MNC
+AI/ML Engineer,76,79,7,2,8,6,9,2,4,"['Robotics', 'AI/ML']","['Technology', 'Research']",Product
+AI/ML Engineer,66,74,8,3,8,8,8,2,3,['AI/ML'],['Technology'],MNC
+AI/ML Engineer,65,62,8,3,8,6,8,2,5,"['AI/ML', 'Data Science', 'Robotics']","['Research', 'Technology']",MNC
+AI/ML Engineer,91,67,6,1,7,6,8,3,4,"['Data Science', 'AI/ML']","['Research', 'Technology']",MNC
+AI/ML Engineer,89,77,6,2,8,8,9,2,5,['AI/ML'],"['Technology', 'Research']",MNC
+AI/ML Engineer,75,67,6,1,7,5,8,3,3,"['Data Science', 'AI/ML']","['Research', 'Technology']",MNC
+AI/ML Engineer,92,62,8,1,7,5,9,3,5,"['Data Science', 'Robotics', 'AI/ML']","['Research', 'Technology']",Product
+AI/ML Engineer,82,81,7,2,8,6,8,3,5,['Robotics'],"['Technology', 'Research']",MNC
+AI/ML Engineer,73,56,6,1,7,5,8,2,5,['Data Science'],"['Research', 'Technology']",Product
+AI/ML Engineer,70,61,8,1,7,7,8,3,3,['Robotics'],"['Technology', 'Research']",Product
+AI/ML Engineer,71,57,7,3,7,6,8,3,3,['Data Science'],['Technology'],Product
+AI/ML Engineer,68,61,7,1,8,7,9,2,4,"['AI/ML', 'Robotics']",['Research'],Product
+AI/ML Engineer,89,55,8,1,8,5,9,3,4,"['Data Science', 'AI/ML']","['Research', 'Technology']",Product
+AI/ML Engineer,67,76,7,1,8,8,9,2,5,"['Data Science', 'AI/ML']","['Research', 'Technology']",Product
+AI/ML Engineer,73,69,7,1,8,8,8,2,5,"['Robotics', 'AI/ML']","['Technology', 'Research']",Product
+AI/ML Engineer,69,75,7,1,8,7,9,3,4,['AI/ML'],['Technology'],Product
+AI/ML Engineer,78,84,8,1,8,6,8,3,5,['Robotics'],['Technology'],Product
+AI/ML Engineer,82,57,6,2,8,7,9,3,3,"['Robotics', 'Data Science']","['Technology', 'Research']",MNC
+AI/ML Engineer,81,69,8,3,7,5,8,2,5,['Data Science'],"['Technology', 'Research']",Product
+AI/ML Engineer,65,81,8,1,7,7,9,2,5,['Robotics'],['Technology'],MNC
+AI/ML Engineer,78,82,8,3,7,6,8,2,5,"['Data Science', 'AI/ML']","['Technology', 'Research']",MNC
+AI/ML Engineer,77,56,6,3,8,7,8,2,5,['Data Science'],['Technology'],Product
+AI/ML Engineer,76,57,8,2,7,7,9,2,5,"['AI/ML', 'Robotics', 'Data Science']",['Research'],MNC
+AI/ML Engineer,79,58,6,3,8,8,8,2,5,['Data Science'],"['Technology', 'Research']",Product
+AI/ML Engineer,92,84,7,3,7,6,8,2,5,"['Robotics', 'AI/ML']",['Research'],MNC
+AI/ML Engineer,74,77,8,1,7,7,8,2,5,"['AI/ML', 'Robotics']",['Technology'],Product
+AI/ML Engineer,68,62,8,2,7,5,9,2,5,"['Robotics', 'Data Science', 'AI/ML']","['Research', 'Technology']",Product
+AI/ML Engineer,87,65,6,1,7,5,9,3,5,"['AI/ML', 'Data Science', 'Robotics']",['Technology'],Product
+AI/ML Engineer,78,65,7,1,7,6,8,2,3,"['Data Science', 'AI/ML']","['Technology', 'Research']",Product
+AI/ML Engineer,66,73,6,2,7,5,8,3,5,"['Data Science', 'Robotics', 'AI/ML']",['Technology'],Product
+AI/ML Engineer,87,80,6,1,7,8,8,2,3,['Data Science'],"['Research', 'Technology']",Product
+AI/ML Engineer,80,56,6,1,8,6,8,3,4,"['Robotics', 'Data Science', 'AI/ML']","['Research', 'Technology']",Product
+AI/ML Engineer,92,67,7,3,8,7,8,3,3,['Data Science'],"['Technology', 'Research']",Product
+AI/ML Engineer,94,62,6,3,7,5,8,2,5,"['Data Science', 'AI/ML']","['Technology', 'Research']",Product
+AI/ML Engineer,76,73,6,2,7,7,8,3,4,"['Robotics', 'Data Science']","['Research', 'Technology']",Product
+AI/ML Engineer,81,67,7,1,8,8,9,2,5,['Robotics'],"['Technology', 'Research']",MNC
+AI/ML Engineer,85,63,7,3,8,7,8,3,4,"['AI/ML', 'Robotics', 'Data Science']",['Research'],Product
+AI/ML Engineer,68,81,7,2,8,6,9,2,5,['AI/ML'],['Technology'],Product
+AI/ML Engineer,65,60,7,2,8,5,8,2,5,['AI/ML'],['Technology'],Product
+AI/ML Engineer,87,82,7,3,8,6,9,3,3,['Data Science'],['Technology'],Product
+AI/ML Engineer,73,64,8,3,7,6,9,2,3,['Robotics'],['Research'],MNC
+Full Stack Developer,78,63,8,2,9,4,8,1,2,"['Cloud Computing', 'Web Development', 'Mobile Development']",['Technology'],Startup
+Full Stack Developer,93,74,7,3,9,5,7,2,2,"['Mobile Development', 'Cloud Computing', 'Web Development']",['Technology'],Product
+Full Stack Developer,99,69,6,2,9,6,7,1,3,['Web Development'],['Technology'],Startup
+Full Stack Developer,83,75,7,3,8,6,7,1,3,"['Web Development', 'Cloud Computing']",['Technology'],Service
+Full Stack Developer,93,78,7,2,8,7,7,2,2,"['Mobile Development', 'Web Development', 'Cloud Computing']",['Technology'],Product
+Full Stack Developer,81,65,6,3,8,4,9,1,4,"['Cloud Computing', 'Mobile Development']",['Technology'],Startup
+Full Stack Developer,89,68,6,2,8,4,7,2,4,"['Cloud Computing', 'Mobile Development', 'Web Development']",['Technology'],Startup
+Full Stack Developer,98,65,9,3,9,7,8,2,3,"['Cloud Computing', 'Web Development']",['Technology'],Startup
+Full Stack Developer,95,62,9,2,9,4,7,2,2,"['Mobile Development', 'Web Development', 'Cloud Computing']",['Technology'],Startup
+Full Stack Developer,99,68,9,3,9,5,9,1,2,"['Mobile Development', 'Web Development']",['Technology'],Service
+Full Stack Developer,93,69,9,2,9,7,7,2,3,"['Cloud Computing', 'Mobile Development', 'Web Development']",['Technology'],Product
+Full Stack Developer,98,66,6,3,8,5,7,1,2,"['Web Development', 'Cloud Computing', 'Mobile Development']",['Technology'],Startup
+Full Stack Developer,91,77,6,3,9,5,9,1,4,['Cloud Computing'],['Technology'],Startup
+Full Stack Developer,75,66,7,2,8,5,8,2,2,"['Web Development', 'Cloud Computing', 'Mobile Development']",['Technology'],Product
+Full Stack Developer,90,68,7,3,8,4,9,2,3,"['Cloud Computing', 'Web Development']",['Technology'],Startup
+Full Stack Developer,87,75,8,3,9,6,9,2,3,['Mobile Development'],['Technology'],Service
+Full Stack Developer,97,72,7,3,9,7,9,1,2,"['Cloud Computing', 'Mobile Development', 'Web Development']",['Technology'],Service
+Full Stack Developer,77,64,9,3,9,6,8,2,3,['Web Development'],['Technology'],Service
+Full Stack Developer,90,73,8,2,8,7,8,2,3,"['Web Development', 'Cloud Computing']",['Technology'],Startup
+Full Stack Developer,75,61,9,1,8,7,8,2,2,"['Cloud Computing', 'Web Development']",['Technology'],Startup
+Full Stack Developer,85,70,8,1,9,6,8,2,3,"['Mobile Development', 'Web Development']",['Technology'],Startup
+Full Stack Developer,94,69,8,2,9,5,8,1,2,"['Web Development', 'Cloud Computing', 'Mobile Development']",['Technology'],Product
+Full Stack Developer,96,79,8,3,8,7,9,2,3,"['Web Development', 'Cloud Computing']",['Technology'],Product
+Full Stack Developer,98,52,6,1,9,7,8,1,2,"['Cloud Computing', 'Web Development']",['Technology'],Product
+Full Stack Developer,84,65,8,3,8,7,8,1,3,"['Mobile Development', 'Web Development', 'Cloud Computing']",['Technology'],Startup
+Full Stack Developer,97,53,6,2,8,4,9,1,4,"['Mobile Development', 'Cloud Computing']",['Technology'],Startup
+Full Stack Developer,85,63,7,3,8,6,7,1,4,['Mobile Development'],['Technology'],Startup
+Full Stack Developer,86,63,7,1,9,5,8,2,2,['Mobile Development'],['Technology'],Startup
+Full Stack Developer,78,51,9,3,9,5,7,1,4,"['Mobile Development', 'Cloud Computing', 'Web Development']",['Technology'],Startup
+Full Stack Developer,91,52,8,2,8,7,9,1,4,['Mobile Development'],['Technology'],Startup
+Full Stack Developer,85,64,8,1,8,4,8,2,2,['Mobile Development'],['Technology'],Startup
+Full Stack Developer,93,52,6,3,9,7,9,2,3,"['Mobile Development', 'Cloud Computing']",['Technology'],Startup
+Full Stack Developer,92,73,6,2,8,6,8,2,2,['Web Development'],['Technology'],Product
+Full Stack Developer,93,61,8,2,9,4,7,2,4,"['Mobile Development', 'Web Development']",['Technology'],Product
+Full Stack Developer,83,77,6,1,9,4,7,1,4,['Cloud Computing'],['Technology'],Startup
+Full Stack Developer,95,67,7,3,9,7,7,1,3,"['Cloud Computing', 'Mobile Development', 'Web Development']",['Technology'],Product
+Full Stack Developer,78,75,7,2,8,7,9,2,2,['Web Development'],['Technology'],Product
+Full Stack Developer,99,63,7,2,8,4,9,1,3,['Web Development'],['Technology'],Service
+Full Stack Developer,92,71,8,2,8,5,8,2,3,"['Cloud Computing', 'Mobile Development', 'Web Development']",['Technology'],Startup
+Full Stack Developer,86,61,8,2,9,4,8,2,2,"['Mobile Development', 'Cloud Computing', 'Web Development']",['Technology'],Product
+Full Stack Developer,79,52,8,2,8,4,7,2,2,"['Mobile Development', 'Web Development']",['Technology'],Service
+Full Stack Developer,90,54,8,3,8,7,8,2,4,"['Web Development', 'Mobile Development', 'Cloud Computing']",['Technology'],Service
+Full Stack Developer,78,75,7,2,8,4,8,1,4,"['Web Development', 'Cloud Computing', 'Mobile Development']",['Technology'],Product
+Full Stack Developer,83,66,6,3,9,7,7,1,4,"['Cloud Computing', 'Web Development', 'Mobile Development']",['Technology'],Product
+Full Stack Developer,85,69,9,1,9,5,9,2,3,"['Mobile Development', 'Cloud Computing', 'Web Development']",['Technology'],Startup
+Full Stack Developer,92,67,6,1,9,4,8,1,3,"['Mobile Development', 'Cloud Computing', 'Web Development']",['Technology'],Startup
+Full Stack Developer,95,50,9,3,9,5,9,2,2,"['Cloud Computing', 'Mobile Development']",['Technology'],Product
+Full Stack Developer,93,59,6,2,9,5,9,2,3,"['Web Development', 'Cloud Computing', 'Mobile Development']",['Technology'],Service
+Full Stack Developer,94,77,6,3,9,7,9,2,4,"['Cloud Computing', 'Web Development', 'Mobile Development']",['Technology'],Service
+Full Stack Developer,81,63,6,3,8,6,8,1,4,"['Cloud Computing', 'Web Development', 'Mobile Development']",['Technology'],Service
+Full Stack Developer,86,73,8,2,8,5,9,2,2,"['Mobile Development', 'Cloud Computing', 'Web Development']",['Technology'],Startup
+Full Stack Developer,82,58,6,3,9,7,8,2,3,"['Cloud Computing', 'Web Development', 'Mobile Development']",['Technology'],Service
+Full Stack Developer,90,66,6,2,9,7,7,2,3,['Mobile Development'],['Technology'],Product
+Full Stack Developer,78,67,6,2,8,7,9,2,3,"['Mobile Development', 'Web Development', 'Cloud Computing']",['Technology'],Product
+Full Stack Developer,99,71,6,1,9,7,9,1,2,"['Web Development', 'Mobile Development']",['Technology'],Service
+Full Stack Developer,92,61,7,2,9,7,8,1,4,"['Web Development', 'Cloud Computing', 'Mobile Development']",['Technology'],Product
+Full Stack Developer,75,77,6,1,8,6,9,2,2,"['Mobile Development', 'Web Development']",['Technology'],Startup
+Full Stack Developer,91,57,7,1,8,7,9,1,4,['Cloud Computing'],['Technology'],Startup
+Full Stack Developer,78,66,9,3,9,5,7,1,3,"['Mobile Development', 'Cloud Computing', 'Web Development']",['Technology'],Startup
+Full Stack Developer,83,59,6,1,8,4,7,1,3,"['Mobile Development', 'Web Development']",['Technology'],Product
+Full Stack Developer,80,65,7,1,9,6,9,2,2,"['Cloud Computing', 'Web Development', 'Mobile Development']",['Technology'],Startup
+Full Stack Developer,89,67,7,1,8,4,9,2,3,"['Cloud Computing', 'Web Development', 'Mobile Development']",['Technology'],Product
+Full Stack Developer,95,77,9,3,8,7,8,2,4,['Web Development'],['Technology'],Product
+Full Stack Developer,86,56,7,2,9,5,8,2,3,['Web Development'],['Technology'],Startup
+Full Stack Developer,90,52,6,3,8,6,9,1,2,['Mobile Development'],['Technology'],Service
+Full Stack Developer,90,68,8,1,8,7,7,2,3,"['Cloud Computing', 'Web Development', 'Mobile Development']",['Technology'],Service
+Full Stack Developer,80,65,9,2,8,5,7,2,2,"['Web Development', 'Cloud Computing']",['Technology'],Service
+Full Stack Developer,79,58,8,2,9,6,9,1,2,"['Cloud Computing', 'Mobile Development']",['Technology'],Service
+Full Stack Developer,76,52,9,2,8,4,7,2,4,"['Cloud Computing', 'Mobile Development', 'Web Development']",['Technology'],Service
+Full Stack Developer,90,70,8,3,8,7,8,2,2,['Cloud Computing'],['Technology'],Service
+Full Stack Developer,92,71,8,3,9,6,8,1,4,"['Mobile Development', 'Web Development']",['Technology'],Startup
+Full Stack Developer,76,79,7,3,8,7,9,1,4,['Mobile Development'],['Technology'],Service
+Full Stack Developer,87,60,7,3,8,6,7,1,2,['Cloud Computing'],['Technology'],Product
+Full Stack Developer,95,52,8,1,8,4,8,2,2,"['Mobile Development', 'Web Development']",['Technology'],Service
+Full Stack Developer,92,60,6,3,9,5,8,1,2,['Mobile Development'],['Technology'],Product
+Full Stack Developer,84,64,8,3,8,6,8,1,2,"['Web Development', 'Mobile Development']",['Technology'],Startup
+Full Stack Developer,77,73,9,3,8,7,7,1,3,"['Cloud Computing', 'Web Development', 'Mobile Development']",['Technology'],Service
+Full Stack Developer,99,70,8,2,9,5,7,2,2,"['Mobile Development', 'Cloud Computing']",['Technology'],Product
+Full Stack Developer,76,51,7,2,8,4,9,1,4,"['Web Development', 'Cloud Computing', 'Mobile Development']",['Technology'],Service
+Full Stack Developer,90,76,9,1,8,7,8,1,2,"['Web Development', 'Mobile Development', 'Cloud Computing']",['Technology'],Product
+Full Stack Developer,84,77,8,2,8,6,9,1,3,"['Mobile Development', 'Web Development', 'Cloud Computing']",['Technology'],Startup
+Full Stack Developer,84,62,7,2,8,5,8,2,2,"['Web Development', 'Cloud Computing']",['Technology'],Startup
+Full Stack Developer,97,70,7,1,9,4,8,1,4,"['Cloud Computing', 'Web Development']",['Technology'],Product
+Full Stack Developer,95,50,9,3,9,7,9,2,3,"['Mobile Development', 'Web Development']",['Technology'],Service
+Full Stack Developer,97,68,9,1,8,4,9,2,2,"['Cloud Computing', 'Web Development']",['Technology'],Startup
+Full Stack Developer,90,58,8,1,9,7,7,1,4,"['Web Development', 'Cloud Computing', 'Mobile Development']",['Technology'],Service
+Full Stack Developer,97,59,7,1,9,6,8,1,3,"['Cloud Computing', 'Web Development', 'Mobile Development']",['Technology'],Product
+Full Stack Developer,77,65,8,1,8,6,7,1,3,"['Web Development', 'Mobile Development', 'Cloud Computing']",['Technology'],Startup
+Full Stack Developer,85,73,9,2,9,5,9,1,4,['Web Development'],['Technology'],Product
+Full Stack Developer,82,50,8,2,8,5,8,2,3,['Web Development'],['Technology'],Service
+Full Stack Developer,77,78,8,3,8,5,9,1,2,"['Web Development', 'Cloud Computing', 'Mobile Development']",['Technology'],Startup
+Full Stack Developer,91,77,8,3,9,5,7,2,3,['Cloud Computing'],['Technology'],Product
+Full Stack Developer,80,72,6,2,8,4,8,2,2,"['Cloud Computing', 'Web Development']",['Technology'],Startup
+Full Stack Developer,99,75,7,2,9,4,7,1,2,"['Mobile Development', 'Web Development']",['Technology'],Product
+Full Stack Developer,97,57,9,2,9,6,9,2,2,['Cloud Computing'],['Technology'],Service
+Full Stack Developer,99,60,7,3,8,7,8,1,4,"['Mobile Development', 'Cloud Computing']",['Technology'],Product
+Full Stack Developer,75,71,6,1,9,4,9,1,2,['Web Development'],['Technology'],Startup
+Full Stack Developer,89,61,6,1,8,6,8,2,4,"['Web Development', 'Cloud Computing', 'Mobile Development']",['Technology'],Service
+Full Stack Developer,92,70,9,3,9,5,7,1,3,"['Web Development', 'Mobile Development']",['Technology'],Startup
+Full Stack Developer,75,64,8,1,9,4,8,1,2,"['Web Development', 'Cloud Computing', 'Mobile Development']",['Technology'],Product

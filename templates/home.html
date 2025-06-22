@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Career Guidance System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="nav-brand">
+            <i class="fas fa-robot"></i>
+            <span>AI Career Guide</span>
+        </div>
+        <div class="nav-links">
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#features">Features</a>
+            <a href="#contact">Contact</a>
+            <a href="{{ url_for('index') }}" class="cta-button">Start Assessment</a>
+        </div>
+        <div class="menu-toggle">
+            <i class="fas fa-bars"></i>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <!-- Moving Elements -->
+        <div class="moving-element"></div>
+        <div class="moving-element"></div>
+        <div class="moving-element"></div>
+        <div class="moving-element"></div>
+        
+        <div class="hero-image">
+            <img src="{{ url_for('static', filename='images/2.jpg') }}" width="750" height="433" alt="AI Career Guidance" class="hero-illustration">
+        </div>
+        
+        <div class="hero-container">
+            <div class="hero-content">
+                <h2>Welcome to AI Career Guide!</h2>
+                <p>I'm here to help you discover your perfect career path using advanced AI technology.</p>
+                <div class="cta-buttons">
+                    <a href="{{ url_for('index') }}" class="primary-button">Start Your Journey</a>
+                    <a href="#about" class="secondary-button">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="section-header">
+            <h2>About Our AI Career Guidance</h2>
+            <div class="underline"></div>
+        </div>
+        <div class="about-content">
+            <div class="about-text">
+                <p>Our AI-powered career guidance system uses advanced machine learning algorithms to analyze your unique combination of skills, interests, and experience. By considering multiple factors such as technical proficiency, communication abilities, and personal preferences, we provide personalized career recommendations that align with your potential.</p>
+                <p>The system continuously learns from industry trends and user feedback to ensure the most accurate and up-to-date career guidance. Whether you're a student exploring career options or a professional looking to transition, our AI system helps you make informed decisions about your future.</p>
+                <div class="stats">
+                    <div class="stat-item">
+                        <span class="number">20+</span>
+                        <span class="label">Career Paths</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="number">95%</span>
+                        <span class="label">Accuracy Rate</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="number">1000+</span>
+                        <span class="label">Users Helped</span>
+                    </div>
+                </div>
+            </div>
+            <div class="about-image">
+                <img src="{{ url_for('static', filename='images/1.jpg') }}" width="600" height="333" alt="AI Career Guidance Illustration" class="about-illustration">
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features">
+        <div class="section-header">
+            <h2>Key Features</h2>
+            <div class="underline"></div>
+        </div>
+        <div class="features-grid">
+            <div class="feature-card">
+                <i class="fas fa-brain"></i>
+                <h3>AI-Powered Analysis</h3>
+                <p>Advanced machine learning algorithms analyze your profile to provide accurate career recommendations.</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-chart-line"></i>
+                <h3>Skill Assessment</h3>
+                <p>Comprehensive evaluation of your technical and soft skills to match with ideal career paths.</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-graduation-cap"></i>
+                <h3>Education Guidance</h3>
+                <p>Personalized recommendations for courses and certifications to enhance your career prospects.</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-users"></i>
+                <h3>Industry Insights</h3>
+                <p>Stay updated with current industry trends and requirements for your chosen career path.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="section-header">
+            <h2>Contact Us</h2>
+            <div class="underline"></div>
+        </div>
+        <div class="contact-content">
+            <div class="contact-info">
+                <div class="info-item">
+                    <i class="fas fa-envelope"></i>
+                    <span>chowdarymeghana17@gmail.com</span>
+                </div>
+                <div class="info-item">
+                    <i class="fas fa-phone"></i>
+                    <span>9100958752</span>
+                </div>
+                <div class="info-item">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <span>Karempudi, Andhra Pradesh</span>
+                </div>
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/in/meghana-chirumamilla-8b8742342/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://github.com/Meghana-TechThinker" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                    <a href="#" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
+                    <a href="#" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
+                </div>
+            </div>
+            <div class="contact-form">
+                <form id="contactForm">
+                    <div class="form-group">
+                        <input type="text" placeholder="Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" placeholder="Your Email" required>
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Your Message" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="submit-button">Send Message</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#features">Features</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Resources</h4>
+                <ul>
+                    <li><a href="#">Career Blog</a></li>
+                    <li><a href="#">Success Stories</a></li>
+                    <li><a href="#">Industry Reports</a></li>
+                    <li><a href="#">Learning Resources</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Newsletter</h4>
+                <p>Subscribe to our newsletter for career insights and updates.</p>
+                <form class="newsletter-form">
+                    <input type="email" placeholder="Enter your email">
+                    <button type="submit">Subscribe</button>
+                </form>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 AI Career Guide. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Mobile Menu Toggle
+        document.querySelector('.menu-toggle').addEventListener('click', function() {
+            document.querySelector('.nav-links').classList.toggle('active');
+        });
+
+        // Navbar Scroll Effect
+        window.addEventListener('scroll', function() {
+            const navbar = document.querySelector('.navbar');
+            if (window.scrollY > 50) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        });
+
+        // Smooth Scrolling
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Form Submission
+        document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            // Add your form submission logic here
+            alert('Thank you for your message! We will get back to you soon.');
+        });
+    </script>
+</body>
+</html> 
